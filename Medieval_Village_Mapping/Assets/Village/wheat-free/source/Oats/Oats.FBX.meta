@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 43d97a259149c404ba920950fdec44d0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Oats_01
+    100004: Oats_02
+    100006: Oats_03
+    100008: Oats_04
+    100010: Oats_05
+    100012: Oats_06
+    100014: Oats_07
+    100016: Oats_08
+    100018: Oats_09
+    100020: Oats_10
+    100022: "\xA1\xA1\xD7\xFD\xD7\xFB"
+    100024: "\xD7\xFE\xD7\xFC"
+    400000: //RootNode
+    400002: Oats_01
+    400004: Oats_02
+    400006: Oats_03
+    400008: Oats_04
+    400010: Oats_05
+    400012: Oats_06
+    400014: Oats_07
+    400016: Oats_08
+    400018: Oats_09
+    400020: Oats_10
+    400022: "\xA1\xA1\xD7\xFD\xD7\xFB"
+    400024: "\xD7\xFE\xD7\xFC"
+    2100000: 'Material #43'
+    2300000: Oats_01
+    2300002: Oats_02
+    2300004: Oats_03
+    2300006: Oats_04
+    2300008: Oats_05
+    2300010: Oats_06
+    2300012: Oats_07
+    2300014: Oats_08
+    2300016: Oats_09
+    2300018: Oats_10
+    3300000: Oats_01
+    3300002: Oats_02
+    3300004: Oats_03
+    3300006: Oats_04
+    3300008: Oats_05
+    3300010: Oats_06
+    3300012: Oats_07
+    3300014: Oats_08
+    3300016: Oats_09
+    3300018: Oats_10
+    4300000: Oats_06
+    4300002: Oats_02
+    4300004: Oats_03
+    4300006: Oats_09
+    4300008: Oats_08
+    4300010: Oats_10
+    4300012: Oats_07
+    4300014: Oats_04
+    4300016: Oats_01
+    4300018: Oats_05
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
