@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 013508d8bb6467d489b9ecc7bd061906
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bell
+    100002: Camera
+    100004: //RootNode
+    100006: Clapper
+    100008: ClockHolder
+    100010: CopperRoof
+    100012: FrontDoor
+    100014: Innansorra
+    100016: Lamp.001
+    100018: SideDoor
+    100020: SideStairs
+    100022: StoneBeams
+    100024: StoneBrickWalls
+    100026: StoneRoof
+    100028: SunSymbol
+    100030: WindowBars
+    100032: Windows
+    400000: Bell
+    400002: Camera
+    400004: //RootNode
+    400006: Clapper
+    400008: ClockHolder
+    400010: CopperRoof
+    400012: FrontDoor
+    400014: Innansorra
+    400016: Lamp.001
+    400018: SideDoor
+    400020: SideStairs
+    400022: StoneBeams
+    400024: StoneBrickWalls
+    400026: StoneRoof
+    400028: SunSymbol
+    400030: WindowBars
+    400032: Windows
+    2000000: Camera
+    2100000: Black
+    2100002: Metal
+    2100004: RoofTiles3
+    2100006: GreyBrick2
+    2100008: Stone
+    2100010: WroughtIron
+    2100012: Wood
+    2100014: Marble
+    2100016: ChurchDoor1
+    2100018: DoorType1_2
+    2100020: LogEdgeWeathered
+    2100022: RustedMetal
+    2300000: Bell
+    2300002: Clapper
+    2300004: ClockHolder
+    2300006: CopperRoof
+    2300008: FrontDoor
+    2300010: Innansorra
+    2300012: SideDoor
+    2300014: SideStairs
+    2300016: StoneBeams
+    2300018: StoneBrickWalls
+    2300020: StoneRoof
+    2300022: SunSymbol
+    2300024: WindowBars
+    2300026: Windows
+    3300000: Bell
+    3300002: Clapper
+    3300004: ClockHolder
+    3300006: CopperRoof
+    3300008: FrontDoor
+    3300010: Innansorra
+    3300012: SideDoor
+    3300014: SideStairs
+    3300016: StoneBeams
+    3300018: StoneBrickWalls
+    3300020: StoneRoof
+    3300022: SunSymbol
+    3300024: WindowBars
+    3300026: Windows
+    4300000: Windows
+    4300002: CopperRoof
+    4300004: StoneBrickWalls
+    4300006: SideStairs
+    4300008: WindowBars
+    4300010: ClockHolder
+    4300012: Bell
+    4300014: Clapper
+    4300016: SunSymbol
+    4300018: FrontDoor
+    4300020: StoneRoof
+    4300022: StoneBeams
+    4300024: Innansorra
+    4300026: SideDoor
+    10800000: Lamp.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
