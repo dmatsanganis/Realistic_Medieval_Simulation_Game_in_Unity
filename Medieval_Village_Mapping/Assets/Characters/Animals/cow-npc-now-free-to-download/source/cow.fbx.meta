@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: cb2a9d7c29182ff4e90b398711b61c7a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cow
+    100002: //RootNode
+    100004: Cow_2
+    100006: CTRL
+    100008: FrontL
+    100010: FrontR
+    100012: Gut_2
+    100014: Head
+    100016: Head_2
+    100018: HindL
+    100020: HindR
+    100022: Hip
+    100024: Hip_2
+    100026: L_Ea1
+    100028: L_Ea2
+    100030: L_Front_1
+    100032: L_Front_2
+    100034: L_Front_3
+    100036: L_Front_3_Goal
+    100038: L_Front_3_Goal_2
+    100040: L_Front_4
+    100042: L_Hind_1
+    100044: L_Hind_2
+    100046: L_Hind_3
+    100048: L_Hind_3_Goal
+    100050: L_Hind_4
+    100052: Neck
+    100054: Neck_2
+    100056: Null
+    100058: Null_2
+    100060: Null_3
+    100062: Null_4
+    100064: R_Ear_1
+    100066: R_Ear_2
+    100068: R_Front_1
+    100070: R_Front_2
+    100072: R_Front_3
+    100074: R_Front_3_Goal
+    100076: R_Front_3_Goal_2
+    100078: R_Front_4
+    100080: R_Hind_1
+    100082: R_Hind_2
+    100084: R_Hind_3
+    100086: R_Hind_3_Goal
+    100088: R_Hind_4
+    100090: Shoulder
+    100092: Shoulder_2
+    100094: Snout
+    100096: Tail1
+    100098: Tail2
+    100100: Tail3
+    100102: Tail_1
+    100104: Tail_2
+    100106: Tail_3
+    100108: Tail_4
+    100110: Tail_5
+    400000: Cow
+    400002: //RootNode
+    400004: Cow_2
+    400006: CTRL
+    400008: FrontL
+    400010: FrontR
+    400012: Gut_2
+    400014: Head
+    400016: Head_2
+    400018: HindL
+    400020: HindR
+    400022: Hip
+    400024: Hip_2
+    400026: L_Ea1
+    400028: L_Ea2
+    400030: L_Front_1
+    400032: L_Front_2
+    400034: L_Front_3
+    400036: L_Front_3_Goal
+    400038: L_Front_3_Goal_2
+    400040: L_Front_4
+    400042: L_Hind_1
+    400044: L_Hind_2
+    400046: L_Hind_3
+    400048: L_Hind_3_Goal
+    400050: L_Hind_4
+    400052: Neck
+    400054: Neck_2
+    400056: Null
+    400058: Null_2
+    400060: Null_3
+    400062: Null_4
+    400064: R_Ear_1
+    400066: R_Ear_2
+    400068: R_Front_1
+    400070: R_Front_2
+    400072: R_Front_3
+    400074: R_Front_3_Goal
+    400076: R_Front_3_Goal_2
+    400078: R_Front_4
+    400080: R_Hind_1
+    400082: R_Hind_2
+    400084: R_Hind_3
+    400086: R_Hind_3_Goal
+    400088: R_Hind_4
+    400090: Shoulder
+    400092: Shoulder_2
+    400094: Snout
+    400096: Tail1
+    400098: Tail2
+    400100: Tail3
+    400102: Tail_1
+    400104: Tail_2
+    400106: Tail_3
+    400108: Tail_4
+    400110: Tail_5
+    2100000: Mat
+    4300000: Cow_2
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    13700000: Cow_2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: C4D Animation Take
+      takeName: C4D Animation Take
+      firstFrame: 105
+      lastFrame: 400
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

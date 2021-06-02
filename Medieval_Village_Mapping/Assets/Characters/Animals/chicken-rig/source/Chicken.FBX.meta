@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 0852c2774b649c9408b7bf3de7169203
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Ankle_L
+    100002: Ankle_R
+    100004: Chest_M
+    100006: Chicken
+    100008: //RootNode
+    100010: FourthGreen
+    100012: Head_M
+    100014: HeadEnd_M
+    100016: Hip_L
+    100018: Hip_R
+    100020: Knee_L
+    100022: Knee_R
+    100024: LongToe1_L
+    100026: LongToe1_R
+    100028: LongToe2_L
+    100030: LongToe2_R
+    100032: LongToe3_L
+    100034: LongToe3_R
+    100036: LongToe4_L
+    100038: LongToe4_R
+    100040: MiddleToe1_L
+    100042: MiddleToe1_R
+    100044: MiddleToe2_L
+    100046: MiddleToe2_R
+    100048: MiddleToe3_L
+    100050: MiddleToe3_R
+    100052: MiddleToeEnd_L
+    100054: MiddleToeEnd_R
+    100056: Neck0_M
+    100058: Neck1_M
+    100060: Neck2_M
+    100062: RingToe1_L
+    100064: RingToe1_R
+    100066: RingToe2_L
+    100068: RingToe2_R
+    100070: RingToe3_L
+    100072: RingToe3_R
+    100074: RingToe4_L
+    100076: RingToe4_R
+    100078: Root_M
+    100080: Shoulder_L
+    100082: Shoulder_R
+    100084: Spine1_M
+    100086: Spine2_M
+    100088: Tail1_M
+    100090: Tail2_M
+    100092: Tail3_M
+    100094: Toes_L
+    100096: Toes_R
+    100098: ToesEnd_L
+    100100: ToesEnd_R
+    400000: Ankle_L
+    400002: Ankle_R
+    400004: Chest_M
+    400006: //RootNode
+    400008: Chicken
+    400010: FourthGreen
+    400012: Head_M
+    400014: HeadEnd_M
+    400016: Hip_L
+    400018: Hip_R
+    400020: Knee_L
+    400022: Knee_R
+    400024: LongToe1_L
+    400026: LongToe1_R
+    400028: LongToe2_L
+    400030: LongToe2_R
+    400032: LongToe3_L
+    400034: LongToe3_R
+    400036: LongToe4_L
+    400038: LongToe4_R
+    400040: MiddleToe1_L
+    400042: MiddleToe1_R
+    400044: MiddleToe2_L
+    400046: MiddleToe2_R
+    400048: MiddleToe3_L
+    400050: MiddleToe3_R
+    400052: MiddleToeEnd_L
+    400054: MiddleToeEnd_R
+    400056: Neck0_M
+    400058: Neck1_M
+    400060: Neck2_M
+    400062: RingToe1_L
+    400064: RingToe1_R
+    400066: RingToe2_L
+    400068: RingToe2_R
+    400070: RingToe3_L
+    400072: RingToe3_R
+    400074: RingToe4_L
+    400076: RingToe4_R
+    400078: Root_M
+    400080: Shoulder_L
+    400082: Shoulder_R
+    400084: Spine1_M
+    400086: Spine2_M
+    400088: Tail1_M
+    400090: Tail2_M
+    400092: Tail3_M
+    400094: Toes_L
+    400096: Toes_R
+    400098: ToesEnd_L
+    400100: ToesEnd_R
+    2100000: Main
+    4300000: Chicken
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Chicken
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
