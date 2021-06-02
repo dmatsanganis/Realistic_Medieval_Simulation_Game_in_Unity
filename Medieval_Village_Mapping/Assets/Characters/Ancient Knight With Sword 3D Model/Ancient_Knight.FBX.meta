@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 679eb15a8a608294f8552ef0ea2cce5d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: desirefx.me_00
+    100004: desirefx.me_01
+    100006: desirefx.me_02
+    100008: desirefx.me_03
+    100010: desirefx.me_04
+    100012: desirefx.me_05
+    100014: desirefx.me_06
+    100016: desirefx.me_07
+    100018: desirefx.me_08
+    100020: desirefx.me_09
+    100022: Text001
+    100024: Text002
+    100026: Text003
+    100028: Text004
+    400000: //RootNode
+    400002: desirefx.me_00
+    400004: desirefx.me_01
+    400006: desirefx.me_02
+    400008: desirefx.me_03
+    400010: desirefx.me_04
+    400012: desirefx.me_05
+    400014: desirefx.me_06
+    400016: desirefx.me_07
+    400018: desirefx.me_08
+    400020: desirefx.me_09
+    400022: Text001
+    400024: Text002
+    400026: Text003
+    400028: Text004
+    2100000: 11 - Default
+    2100002: 10 - Default
+    2100004: 09 - Default
+    2100006: 01 - Default
+    2100008: 05 - Default
+    2100010: 02 - Default
+    2100012: 03 - Default
+    2100014: 07 - Default
+    2100016: 08 - Default
+    2100018: 04 - Default
+    2300000: desirefx.me_00
+    2300002: desirefx.me_01
+    2300004: desirefx.me_02
+    2300006: desirefx.me_03
+    2300008: desirefx.me_04
+    2300010: desirefx.me_05
+    2300012: desirefx.me_06
+    2300014: desirefx.me_07
+    2300016: desirefx.me_08
+    2300018: desirefx.me_09
+    3300000: desirefx.me_00
+    3300002: desirefx.me_01
+    3300004: desirefx.me_02
+    3300006: desirefx.me_03
+    3300008: desirefx.me_04
+    3300010: desirefx.me_05
+    3300012: desirefx.me_06
+    3300014: desirefx.me_07
+    3300016: desirefx.me_08
+    3300018: desirefx.me_09
+    4300000: desirefx.me_00
+    4300002: desirefx.me_01
+    4300004: desirefx.me_02
+    4300006: desirefx.me_03
+    4300008: desirefx.me_04
+    4300010: desirefx.me_05
+    4300012: desirefx.me_06
+    4300014: desirefx.me_07
+    4300016: desirefx.me_08
+    4300018: desirefx.me_09
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
