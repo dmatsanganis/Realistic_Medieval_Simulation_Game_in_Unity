@@ -1,0 +1,53 @@
+FORMATS & ANIMATIONS
+All model formats with 'm' prefixed have the following multitrack animations - That is, that they are listed in your 3d
+engine ready to use with names.  DIrecet X and FBX supports this, and various engines can use such formats, such as UNITY 3d.
+
+
+FACIAL FEATURE CONTROL
+There is also an animation EYEBLINK which demonstates a simple eyeblining animation
+
+Eyeblinking forms part of most animations
+Mouth movement is indcluded in most animations, as subtle movement, to add realism.
+
+I will also supply a version of this model without any eye or mouth control, so you the user, can take charge of this in your game.
+
+
+EyeBlink
+WizardCombatA
+WizardDodgeToLegt
+WizardDodgeToRight
+WizardHelixSpell
+WizardEarthQuakeSpell
+WizardStaffBlock
+WizardStaffHit
+WizardStraightDownHit
+WizardStaffSwingRight
+WizardStaffTakingHit
+
+WizardCombatReadyB
+WizardDuckBeloeSwing
+WizardMagicLightSpell
+WizardMagicShotSpell
+
+WziardCombatReadyC
+WizardBuffSpellA
+WizardBuffSpellB
+WizardFireBallSpell
+WizardCastSpellCastA
+WizardCastSpellCastB
+WizardCastSpellCastC
+WizardCastSpellCastD
+WizardMixPotion
+
+WizardDeaath
+WizardGetup
+WizardRun
+WizardWalk A
+WizardWalk B
+Jump
+
+NPCDissapointed
+NPC Explanation
+NPC Pointing A
+NPC Use Object
+NPC Arm Kick Right

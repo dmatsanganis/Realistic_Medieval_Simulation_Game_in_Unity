@@ -1,0 +1,1369 @@
+fileFormatVersion: 2
+guid: 21bf019c86ef12d48bf9c59e918ee457
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: arrow_00
+    100002: Bip01
+    100004: Bip01_back_left_Wmount
+    100006: Bip01_Head
+    100008: Bip01_L_Calf
+    100010: Bip01_L_Clavicle
+    100012: Bip01_L_Finger0
+    100014: Bip01_L_Finger01
+    100016: Bip01_L_Finger02
+    100018: Bip01_L_Finger1
+    100020: Bip01_L_Finger11
+    100022: Bip01_L_Finger12
+    100024: Bip01_L_Foot
+    100026: Bip01_L_Forearm
+    100028: Bip01_L_Hand
+    100030: Bip01_L_Thigh
+    100032: Bip01_L_Toe0
+    100034: Bip01_L_UpperArm
+    100036: Bip01_left_Wmount
+    100038: Bip01_Neck
+    100040: Bip01_Pelvis
+    100042: Bip01_R_Calf
+    100044: Bip01_R_Clavicle
+    100046: Bip01_R_Finger0
+    100048: Bip01_R_Finger01
+    100050: Bip01_R_Finger02
+    100052: Bip01_R_Finger1
+    100054: Bip01_R_Finger11
+    100056: Bip01_R_Finger12
+    100058: Bip01_R_Foot
+    100060: Bip01_R_Forearm
+    100062: Bip01_R_Hand
+    100064: Bip01_R_Thigh
+    100066: Bip01_R_Toe0
+    100068: Bip01_R_UpperArm
+    100070: Bip01_Rhand_Weapon
+    100072: Bip01_Rhand_WeaponOpp
+    100074: Bip01_skirt_left
+    100076: Bip01_skirt_left02
+    100078: Bip01_skirt_left03
+    100080: Bip01_Spine
+    100082: Bip01_Spine1
+    100084: Bip01_Spine2
+    100086: bone_bow
+    100088: Bow_animation_controller
+    100090: defaultMat
+    100092: GuildArms1
+    100094: Head
+    100096: LeatherArmourGloves_jpg
+    100098: LeftEye
+    100100: LeftEyeLidLOWER
+    100102: LeftEyeLidUPPER
+    100104: MageBoots
+    100106: MageLegs
+    100108: MageRobe
+    100110: MageSash
+    100112: MageTorso
+    100114: //RootNode
+    100116: Mouth
+    100118: qiuver_01
+    100120: qiuver_02
+    100122: RightEye
+    100124: RightEyeLidLOWER
+    100126: RightEyeLidUPPER
+    100128: Teeth
+    400000: arrow_00
+    400002: Bip01
+    400004: Bip01_back_left_Wmount
+    400006: Bip01_Head
+    400008: Bip01_L_Calf
+    400010: Bip01_L_Clavicle
+    400012: Bip01_L_Finger0
+    400014: Bip01_L_Finger01
+    400016: Bip01_L_Finger02
+    400018: Bip01_L_Finger1
+    400020: Bip01_L_Finger11
+    400022: Bip01_L_Finger12
+    400024: Bip01_L_Foot
+    400026: Bip01_L_Forearm
+    400028: Bip01_L_Hand
+    400030: Bip01_L_Thigh
+    400032: Bip01_L_Toe0
+    400034: Bip01_L_UpperArm
+    400036: Bip01_left_Wmount
+    400038: Bip01_Neck
+    400040: Bip01_Pelvis
+    400042: Bip01_R_Calf
+    400044: Bip01_R_Clavicle
+    400046: Bip01_R_Finger0
+    400048: Bip01_R_Finger01
+    400050: Bip01_R_Finger02
+    400052: Bip01_R_Finger1
+    400054: Bip01_R_Finger11
+    400056: Bip01_R_Finger12
+    400058: Bip01_R_Foot
+    400060: Bip01_R_Forearm
+    400062: Bip01_R_Hand
+    400064: Bip01_R_Thigh
+    400066: Bip01_R_Toe0
+    400068: Bip01_R_UpperArm
+    400070: Bip01_Rhand_Weapon
+    400072: Bip01_Rhand_WeaponOpp
+    400074: Bip01_skirt_left
+    400076: Bip01_skirt_left02
+    400078: Bip01_skirt_left03
+    400080: Bip01_Spine
+    400082: Bip01_Spine1
+    400084: Bip01_Spine2
+    400086: bone_bow
+    400088: Bow_animation_controller
+    400090: defaultMat
+    400092: GuildArms1
+    400094: Head
+    400096: LeatherArmourGloves_jpg
+    400098: LeftEye
+    400100: LeftEyeLidLOWER
+    400102: LeftEyeLidUPPER
+    400104: MageBoots
+    400106: MageLegs
+    400108: MageRobe
+    400110: MageSash
+    400112: MageTorso
+    400114: //RootNode
+    400116: Mouth
+    400118: qiuver_01
+    400120: qiuver_02
+    400122: RightEye
+    400124: RightEyeLidLOWER
+    400126: RightEyeLidUPPER
+    400128: Teeth
+    2100000: GuildArms1
+    2100002: LeatherArmourGloves_jpg
+    2100004: Head
+    2100006: Teeth
+    2100008: MageLegs
+    2100010: MageTorso
+    2100012: MageRobe
+    2100014: MageBoots
+    2100016: MageSash
+    2100018: MageStaff
+    4300000: GuildArms1
+    4300002: LeatherArmourGloves_jpg
+    4300004: Head
+    4300006: Teeth
+    4300008: MageLegs
+    4300010: MageTorso
+    4300012: MageRobe
+    4300014: MageBoots
+    4300016: MageSash
+    4300018: defaultMat
+    7400000: EyeBlink
+    7400002: WizardCombatReadyA
+    7400004: WizardDodgeToLeft
+    7400006: WizardDodgeToRight
+    7400008: WizardHelixSpell
+    7400010: WizardEarthQuakeSpell
+    7400012: WizardStaffBlock
+    7400014: WizardStaffHit
+    7400016: WizardStraightDownHit
+    7400018: WizardStaffSwingRight
+    7400020: WizardStaffTakingHit
+    7400022: WizardCombatReadyB
+    7400024: WizardDuckBelowSwing
+    7400026: WizardMagicLightSpell
+    7400028: WizardMagicShotSpell
+    7400030: WizardCombatReadyC
+    7400032: WizardBuffSpellA
+    7400034: WizardBuffSpellB
+    7400036: WizardFireBallSpell
+    7400038: WizardSpellCastA
+    7400040: WizardSpellCastB
+    7400042: WizardSpellCastC
+    7400044: WizardSpellCastD
+    7400046: WizardMixPotion
+    7400048: WizardDrinkingPotion
+    7400050: WizardDeath
+    7400052: WizardGetup
+    7400054: WizardRun
+    7400056: WizardWalk
+    7400058: WizardWalkB
+    7400060: Jump
+    7400062: NPCDissapointed
+    7400064: NPCExplanation
+    7400066: NPCPointingA
+    7400068: NPCUseObject
+    7400070: NPCArmKickRight
+    9500000: //RootNode
+    13700000: defaultMat
+    13700002: GuildArms1
+    13700004: Head
+    13700006: LeatherArmourGloves_jpg
+    13700008: MageBoots
+    13700010: MageLegs
+    13700012: MageRobe
+    13700014: MageSash
+    13700016: MageTorso
+    13700018: Teeth
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'WizardCombatReadyA' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'Bip01_L_Hand' has translation animation
+      that will be discarded.\n\t'Bip01_R_Hand' has translation animation that will
+      be discarded.\n\t'Bip01_R_Hand' has scale animation that will be discarded.\n\t'Bip01_L_Thigh'
+      has scale animation that will be discarded.\n\nClip 'WizardDodgeToLeft' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'Bip01_Pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_L_UpperArm'
+      has scale animation that will be discarded.\n\t'Bip01_L_Hand' has translation
+      animation that will be discarded.\n\t'Bip01_R_UpperArm' has scale animation
+      that will be discarded.\n\t'Bip01_R_Hand' has translation animation that will
+      be discarded.\n\t'Bip01_R_Hand' has scale animation that will be discarded.\n\t'Bip01_L_Thigh'
+      has scale animation that will be discarded.\n\t'Bip01_L_Foot' has translation
+      animation that will be discarded.\n\t'Bip01_R_Foot' has translation animation
+      that will be discarded.\n\nClip 'WizardDodgeToRight' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'Bip01_L_UpperArm' has scale animation that
+      will be discarded.\n\t'Bip01_L_Hand' has translation animation that will be
+      discarded.\n\t'Bip01_R_UpperArm' has scale animation that will be discarded.\n\t'Bip01_R_Hand'
+      has translation animation that will be discarded.\n\t'Bip01_R_Hand' has scale
+      animation that will be discarded.\n\t'Bip01_L_Foot' has translation animation
+      that will be discarded.\n\t'Bip01_R_Foot' has translation animation that will
+      be discarded.\n\nClip 'WizardHelixSpell' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'Bip01_Pelvis' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'Bip01_L_UpperArm' has
+      scale animation that will be discarded.\n\t'Bip01_L_Hand' has translation animation
+      that will be discarded.\n\t'Bip01_L_Hand' has scale animation that will be discarded.\n\t'Bip01_R_UpperArm'
+      has scale animation that will be discarded.\n\t'Bip01_R_Hand' has translation
+      animation that will be discarded.\n\t'Bip01_R_Hand' has scale animation that
+      will be discarded.\n\t'Bip01_L_Thigh' has scale animation that will be discarded.\n\t'Bip01_L_Foot'
+      has translation animation that will be discarded.\n\t'Bip01_R_Foot' has translation
+      animation that will be discarded.\n\nClip 'WizardEarthQuakeSpell' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'Bip01_Pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_L_UpperArm'
+      has scale animation that will be discarded.\n\t'Bip01_L_Hand' has translation
+      animation that will be discarded.\n\t'Bip01_L_Hand' has scale animation that
+      will be discarded.\n\t'Bip01_R_UpperArm' has scale animation that will be discarded.\n\t'Bip01_R_Hand'
+      has translation animation that will be discarded.\n\t'Bip01_R_Hand' has scale
+      animation that will be discarded.\n\t'Bip01_L_Thigh' has scale animation that
+      will be discarded.\n\t'Bip01_L_Foot' has translation animation that will be
+      discarded.\n\t'Bip01_R_Foot' has translation animation that will be discarded.\n\nClip
+      'WizardStaffBlock' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Bip01_Pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_L_UpperArm'
+      has scale animation that will be discarded.\n\t'Bip01_L_Hand' has translation
+      animation that will be discarded.\n\t'Bip01_L_Hand' has scale animation that
+      will be discarded.\n\t'Bip01_R_Clavicle' has scale animation that will be discarded.\n\t'Bip01_R_UpperArm'
+      has scale animation that will be discarded.\n\t'Bip01_R_Hand' has translation
+      animation that will be discarded.\n\t'Bip01_R_Hand' has scale animation that
+      will be discarded.\n\t'Bip01_L_Thigh' has scale animation that will be discarded.\n\t'Bip01_L_Foot'
+      has translation animation that will be discarded.\n\t'Bip01_R_Foot' has translation
+      animation that will be discarded.\n\nClip 'WizardStaffHit' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation DOF
+      on avatar to improve retargeting quality.\n\t'Bip01_Pelvis' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'Bip01_L_UpperArm'
+      has scale animation that will be discarded.\n\t'Bip01_L_Hand' has translation
+      animation that will be discarded.\n\t'Bip01_L_Hand' has scale animation that
+      will be discarded.\n\t'Bip01_R_UpperArm' has scale animation that will be discarded.\n\t'Bip01_R_Hand'
+      has translation animation that will be discarded.\n\t'Bip01_R_Hand' has scale
+      animation that will be discarded.\n\t'Bip01_L_Thigh' has scale animation that
+      will be discarded.\n\nClip 'WizardStraightDownHit' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'Bip01_Pelvis' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'Bip01_L_UpperArm' has
+      scale animation that will be discarded.\n\t'Bip01_L_Hand' has translation animation
+      that will be discarded.\n\t'Bip01_L_Hand' has scale animation that will be discarded.\n\t'Bip01_R_UpperArm'
+      has scale animation that will be discarded.\n\t'Bip01_R_Hand' has translation
+      animation that will be discarded.\n\t'Bip01_R_Hand' has scale animation that
+      will be discarded.\n\t'Bip01_L_Foot' has translation animation that will be
+      discarded.\n\t'Bip01_R_Foot' has translation animation that will be discarded.\n\nClip
+      'WizardStaffSwingRight' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Bip01_Pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_L_UpperArm'
+      has scale animation that will be discarded.\n\t'Bip01_L_Hand' has translation
+      animation that will be discarded.\n\t'Bip01_L_Hand' has scale animation that
+      will be discarded.\n\t'Bip01_R_UpperArm' has scale animation that will be discarded.\n\t'Bip01_R_Hand'
+      has translation animation that will be discarded.\n\t'Bip01_R_Hand' has scale
+      animation that will be discarded.\n\t'Bip01_L_Foot' has translation animation
+      that will be discarded.\n\t'Bip01_R_Foot' has translation animation that will
+      be discarded.\n\nClip 'WizardStaffTakingHit' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'Bip01_Pelvis' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'Bip01_L_UpperArm' has
+      scale animation that will be discarded.\n\t'Bip01_L_Hand' has translation animation
+      that will be discarded.\n\t'Bip01_L_Hand' has scale animation that will be discarded.\n\t'Bip01_R_UpperArm'
+      has scale animation that will be discarded.\n\t'Bip01_R_Hand' has translation
+      animation that will be discarded.\n\t'Bip01_R_Hand' has scale animation that
+      will be discarded.\n\t'Bip01_R_Foot' has translation animation that will be
+      discarded.\n\nClip 'WizardCombatReadyB' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'Bip01' has scale animation that will be discarded.\n\t'Bip01_Pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_Spine'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_Neck'
+      has scale animation that will be discarded.\n\t'Bip01_L_Clavicle' has translation
+      animation that will be discarded.\n\t'Bip01_L_UpperArm' has scale animation
+      that will be discarded.\n\t'Bip01_L_Hand' has scale animation that will be discarded.\n\t'Bip01_R_Clavicle'
+      has translation animation that will be discarded.\n\t'Bip01_R_Clavicle' has
+      scale animation that will be discarded.\n\t'Bip01_R_UpperArm' has scale animation
+      that will be discarded.\n\t'Bip01_R_Hand' has scale animation that will be discarded.\n\t'Bip01_L_Thigh'
+      has translation animation that will be discarded.\n\t'Bip01_L_Thigh' has scale
+      animation that will be discarded.\n\t'Bip01_R_Thigh' has translation animation
+      that will be discarded.\n\nClip 'WizardDuckBelowSwing' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation DOF
+      on avatar to improve retargeting quality.\n\t'Bip01_Pelvis' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'Bip01_Pelvis'
+      has scale animation that will be discarded.\n\t'Bip01_Spine' has translation
+      animation that will be discarded.\n\t'Bip01_Spine' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'Bip01_L_Clavicle' has
+      scale animation that will be discarded.\n\t'Bip01_L_UpperArm' has scale animation
+      that will be discarded.\n\t'Bip01_L_Hand' has scale animation that will be discarded.\n\t'Bip01_L_Finger0'
+      has scale animation that will be discarded.\n\t'Bip01_R_Clavicle' has scale
+      animation that will be discarded.\n\t'Bip01_R_UpperArm' has scale animation
+      that will be discarded.\n\t'Bip01_R_Hand' has scale animation that will be discarded.\n\t'Bip01_R_Finger0'
+      has scale animation that will be discarded.\n\t'Bip01_L_Thigh' has translation
+      animation that will be discarded.\n\t'Bip01_L_Thigh' has scale animation that
+      will be discarded.\n\t'Bip01_R_Thigh' has translation animation that will be
+      discarded.\n\t'Bip01_R_Thigh' has scale animation that will be discarded.\n\t'Bip01_R_Foot'
+      has scale animation that will be discarded.\n\nClip 'WizardMagicLightSpell'
+      has import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'Bip01_Pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_Spine'
+      has translation animation that will be discarded.\n\t'Bip01_Spine' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_Neck'
+      has scale animation that will be discarded.\n\t'Bip01_Head' has scale animation
+      that will be discarded.\n\t'Bip01_L_Clavicle' has translation animation that
+      will be discarded.\n\t'Bip01_L_Clavicle' has scale animation that will be discarded.\n\t'Bip01_L_UpperArm'
+      has scale animation that will be discarded.\n\t'Bip01_L_Hand' has scale animation
+      that will be discarded.\n\t'Bip01_R_Clavicle' has translation animation that
+      will be discarded.\n\t'Bip01_R_Clavicle' has scale animation that will be discarded.\n\t'Bip01_R_UpperArm'
+      has scale animation that will be discarded.\n\t'Bip01_R_Hand' has scale animation
+      that will be discarded.\n\t'Bip01_L_Thigh' has translation animation that will
+      be discarded.\n\t'Bip01_L_Thigh' has scale animation that will be discarded.\n\t'Bip01_R_Thigh'
+      has translation animation that will be discarded.\n\t'Bip01_R_Foot' has scale
+      animation that will be discarded.\n\nClip 'WizardMagicShotSpell' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'Bip01_Pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_Spine'
+      has translation animation that will be discarded.\n\t'Bip01_Spine' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_Head'
+      has scale animation that will be discarded.\n\t'Bip01_L_Clavicle' has translation
+      animation that will be discarded.\n\t'Bip01_L_Clavicle' has scale animation
+      that will be discarded.\n\t'Bip01_L_UpperArm' has scale animation that will
+      be discarded.\n\t'Bip01_L_Forearm' has scale animation that will be discarded.\n\t'Bip01_L_Hand'
+      has scale animation that will be discarded.\n\t'Bip01_R_Clavicle' has translation
+      animation that will be discarded.\n\t'Bip01_R_Clavicle' has scale animation
+      that will be discarded.\n\t'Bip01_R_UpperArm' has scale animation that will
+      be discarded.\n\t'Bip01_R_Hand' has scale animation that will be discarded.\n\t'Bip01_L_Thigh'
+      has translation animation that will be discarded.\n\t'Bip01_L_Thigh' has scale
+      animation that will be discarded.\n\t'Bip01_L_Foot' has scale animation that
+      will be discarded.\n\t'Bip01_R_Thigh' has translation animation that will be
+      discarded.\n\t'Bip01_R_Foot' has scale animation that will be discarded.\n\nClip
+      'WizardCombatReadyC' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Bip01_Pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_Spine'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_Neck'
+      has scale animation that will be discarded.\n\t'Bip01_L_Clavicle' has translation
+      animation that will be discarded.\n\t'Bip01_L_Hand' has scale animation that
+      will be discarded.\n\t'Bip01_R_Clavicle' has translation animation that will
+      be discarded.\n\t'Bip01_R_Clavicle' has scale animation that will be discarded.\n\t'Bip01_R_UpperArm'
+      has scale animation that will be discarded.\n\t'Bip01_L_Thigh' has translation
+      animation that will be discarded.\n\t'Bip01_L_Thigh' has scale animation that
+      will be discarded.\n\t'Bip01_R_Thigh' has translation animation that will be
+      discarded.\n\nClip 'WizardBuffSpellA' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'Bip01_Pelvis' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'Bip01_Spine' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_Neck'
+      has scale animation that will be discarded.\n\t'Bip01_L_Clavicle' has translation
+      animation that will be discarded.\n\t'Bip01_L_Clavicle' has scale animation
+      that will be discarded.\n\t'Bip01_L_UpperArm' has scale animation that will
+      be discarded.\n\t'Bip01_L_Hand' has scale animation that will be discarded.\n\t'Bip01_R_Clavicle'
+      has translation animation that will be discarded.\n\t'Bip01_R_Clavicle' has
+      scale animation that will be discarded.\n\t'Bip01_R_UpperArm' has scale animation
+      that will be discarded.\n\t'Bip01_R_Hand' has scale animation that will be discarded.\n\t'Bip01_L_Thigh'
+      has translation animation that will be discarded.\n\t'Bip01_L_Thigh' has scale
+      animation that will be discarded.\n\t'Bip01_L_Toe0' has scale animation that
+      will be discarded.\n\t'Bip01_R_Thigh' has translation animation that will be
+      discarded.\n\nClip 'WizardBuffSpellB' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'Bip01_Pelvis' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'Bip01_Spine' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_Neck'
+      has scale animation that will be discarded.\n\t'Bip01_L_Clavicle' has translation
+      animation that will be discarded.\n\t'Bip01_L_Clavicle' has scale animation
+      that will be discarded.\n\t'Bip01_L_UpperArm' has scale animation that will
+      be discarded.\n\t'Bip01_L_Forearm' has scale animation that will be discarded.\n\t'Bip01_L_Hand'
+      has scale animation that will be discarded.\n\t'Bip01_R_Clavicle' has translation
+      animation that will be discarded.\n\t'Bip01_R_Clavicle' has scale animation
+      that will be discarded.\n\t'Bip01_R_UpperArm' has scale animation that will
+      be discarded.\n\t'Bip01_R_Forearm' has scale animation that will be discarded.\n\t'Bip01_R_Hand'
+      has scale animation that will be discarded.\n\t'Bip01_R_Finger0' has scale animation
+      that will be discarded.\n\t'Bip01_L_Thigh' has translation animation that will
+      be discarded.\n\t'Bip01_L_Thigh' has scale animation that will be discarded.\n\t'Bip01_R_Thigh'
+      has translation animation that will be discarded.\n\nClip 'WizardFireBallSpell'
+      has import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'Bip01_Pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_Spine'
+      has translation animation that will be discarded.\n\t'Bip01_Spine' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_Spine'
+      has scale animation that will be discarded.\n\t'Bip01_Head' has scale animation
+      that will be discarded.\n\t'Bip01_L_Clavicle' has translation animation that
+      will be discarded.\n\t'Bip01_L_Clavicle' has scale animation that will be discarded.\n\t'Bip01_L_UpperArm'
+      has scale animation that will be discarded.\n\t'Bip01_L_Forearm' has scale animation
+      that will be discarded.\n\t'Bip01_L_Hand' has scale animation that will be discarded.\n\t'Bip01_R_Clavicle'
+      has translation animation that will be discarded.\n\t'Bip01_R_Clavicle' has
+      scale animation that will be discarded.\n\t'Bip01_R_UpperArm' has scale animation
+      that will be discarded.\n\t'Bip01_R_Forearm' has scale animation that will be
+      discarded.\n\t'Bip01_R_Hand' has scale animation that will be discarded.\n\t'Bip01_L_Thigh'
+      has translation animation that will be discarded.\n\t'Bip01_L_Thigh' has scale
+      animation that will be discarded.\n\t'Bip01_R_Thigh' has translation animation
+      that will be discarded.\n\t'Bip01_R_Foot' has scale animation that will be discarded.\n\nClip
+      'WizardSpellCastA' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Bip01_Pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_Spine'
+      has translation animation that will be discarded.\n\t'Bip01_Spine' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_Spine'
+      has scale animation that will be discarded.\n\t'Bip01_Neck' has scale animation
+      that will be discarded.\n\t'Bip01_L_Clavicle' has translation animation that
+      will be discarded.\n\t'Bip01_L_Clavicle' has scale animation that will be discarded.\n\t'Bip01_L_UpperArm'
+      has scale animation that will be discarded.\n\t'Bip01_L_Forearm' has scale animation
+      that will be discarded.\n\t'Bip01_L_Hand' has scale animation that will be discarded.\n\t'Bip01_L_Finger0'
+      has scale animation that will be discarded.\n\t'Bip01_R_Clavicle' has translation
+      animation that will be discarded.\n\t'Bip01_R_Clavicle' has scale animation
+      that will be discarded.\n\t'Bip01_R_UpperArm' has scale animation that will
+      be discarded.\n\t'Bip01_R_Forearm' has scale animation that will be discarded.\n\t'Bip01_R_Hand'
+      has scale animation that will be discarded.\n\t'Bip01_L_Thigh' has translation
+      animation that will be discarded.\n\t'Bip01_L_Thigh' has scale animation that
+      will be discarded.\n\t'Bip01_R_Thigh' has translation animation that will be
+      discarded.\n\nClip 'WizardSpellCastB' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'Bip01_Pelvis' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'Bip01_Spine' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_Neck'
+      has scale animation that will be discarded.\n\t'Bip01_Head' has scale animation
+      that will be discarded.\n\t'Bip01_L_Clavicle' has translation animation that
+      will be discarded.\n\t'Bip01_L_Clavicle' has scale animation that will be discarded.\n\t'Bip01_L_UpperArm'
+      has scale animation that will be discarded.\n\t'Bip01_L_Forearm' has scale animation
+      that will be discarded.\n\t'Bip01_L_Hand' has scale animation that will be discarded.\n\t'Bip01_R_Clavicle'
+      has translation animation that will be discarded.\n\t'Bip01_R_Clavicle' has
+      scale animation that will be discarded.\n\t'Bip01_R_UpperArm' has scale animation
+      that will be discarded.\n\t'Bip01_R_Forearm' has scale animation that will be
+      discarded.\n\t'Bip01_R_Hand' has scale animation that will be discarded.\n\t'Bip01_L_Thigh'
+      has translation animation that will be discarded.\n\t'Bip01_L_Thigh' has scale
+      animation that will be discarded.\n\t'Bip01_L_Foot' has scale animation that
+      will be discarded.\n\t'Bip01_R_Thigh' has translation animation that will be
+      discarded.\n\nClip 'WizardSpellCastC' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'Bip01_Pelvis' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'Bip01_Spine' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_L_Clavicle'
+      has scale animation that will be discarded.\n\t'Bip01_L_UpperArm' has scale
+      animation that will be discarded.\n\t'Bip01_L_Hand' has scale animation that
+      will be discarded.\n\t'Bip01_R_Clavicle' has scale animation that will be discarded.\n\t'Bip01_R_UpperArm'
+      has scale animation that will be discarded.\n\t'Bip01_R_Forearm' has scale animation
+      that will be discarded.\n\t'Bip01_R_Hand' has scale animation that will be discarded.\n\t'Bip01_L_Thigh'
+      has translation animation that will be discarded.\n\t'Bip01_L_Thigh' has scale
+      animation that will be discarded.\n\t'Bip01_L_Foot' has scale animation that
+      will be discarded.\n\t'Bip01_R_Thigh' has translation animation that will be
+      discarded.\n\nClip 'WizardSpellCastD' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'Bip01_Pelvis' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'Bip01_Spine' has translation
+      animation that will be discarded.\n\t'Bip01_Spine' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'Bip01_Neck' has scale
+      animation that will be discarded.\n\t'Bip01_Head' has scale animation that will
+      be discarded.\n\t'Bip01_L_Clavicle' has translation animation that will be discarded.\n\t'Bip01_L_Clavicle'
+      has scale animation that will be discarded.\n\t'Bip01_L_UpperArm' has scale
+      animation that will be discarded.\n\t'Bip01_L_Hand' has scale animation that
+      will be discarded.\n\t'Bip01_R_Clavicle' has translation animation that will
+      be discarded.\n\t'Bip01_R_Clavicle' has scale animation that will be discarded.\n\t'Bip01_R_UpperArm'
+      has scale animation that will be discarded.\n\t'Bip01_R_Forearm' has scale animation
+      that will be discarded.\n\t'Bip01_R_Hand' has scale animation that will be discarded.\n\t'Bip01_R_Finger0'
+      has scale animation that will be discarded.\n\t'Bip01_L_Thigh' has translation
+      animation that will be discarded.\n\t'Bip01_L_Thigh' has scale animation that
+      will be discarded.\n\t'Bip01_R_Thigh' has translation animation that will be
+      discarded.\n\nClip 'WizardMixPotion' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'Bip01_Spine' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'Bip01_L_UpperArm' has scale animation
+      that will be discarded.\n\t'Bip01_L_Hand' has scale animation that will be discarded.\n\t'Bip01_R_UpperArm'
+      has scale animation that will be discarded.\n\t'Bip01_R_Hand' has scale animation
+      that will be discarded.\n\t'Bip01_L_Thigh' has translation animation that will
+      be discarded.\n\t'Bip01_R_Thigh' has translation animation that will be discarded.\n\t'Bip01_R_Foot'
+      has scale animation that will be discarded.\n\nClip 'WizardDrinkingPotion' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'Bip01' has scale
+      animation that will be discarded.\n\t'Bip01_Pelvis' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'Bip01_Pelvis' has scale
+      animation that will be discarded.\n\t'Bip01_Spine' has translation animation
+      that will be discarded.\n\t'Bip01_Spine' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'Bip01_Spine' has scale animation
+      that will be discarded.\n\t'Bip01_Spine2' has scale animation that will be discarded.\n\t'Bip01_L_Clavicle'
+      has translation animation that will be discarded.\n\t'Bip01_L_Clavicle' has
+      scale animation that will be discarded.\n\t'Bip01_L_UpperArm' has scale animation
+      that will be discarded.\n\t'Bip01_L_Forearm' has scale animation that will be
+      discarded.\n\t'Bip01_L_Hand' has scale animation that will be discarded.\n\t'Bip01_L_Finger0'
+      has scale animation that will be discarded.\n\t'Bip01_L_Finger01' has scale
+      animation that will be discarded.\n\t'Bip01_R_Clavicle' has translation animation
+      that will be discarded.\n\t'Bip01_R_Clavicle' has scale animation that will
+      be discarded.\n\t'Bip01_R_UpperArm' has scale animation that will be discarded.\n\t'Bip01_R_Forearm'
+      has scale animation that will be discarded.\n\t'Bip01_R_Hand' has scale animation
+      that will be discarded.\n\t'Bip01_R_Finger0' has scale animation that will be
+      discarded.\n\t'Bip01_R_Finger01' has scale animation that will be discarded.\n\t'Bip01_R_Finger11'
+      has scale animation that will be discarded.\n\t'Bip01_L_Thigh' has translation
+      animation that will be discarded.\n\t'Bip01_L_Thigh' has scale animation that
+      will be discarded.\n\t'Bip01_R_Thigh' has translation animation that will be
+      discarded.\n\t'Bip01_R_Foot' has scale animation that will be discarded.\n\nClip
+      'WizardDeath' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Bip01_Pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_Pelvis'
+      has scale animation that will be discarded.\n\t'Bip01_Spine' has translation
+      animation that will be discarded.\n\t'Bip01_Spine' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'Bip01_Spine' has scale
+      animation that will be discarded.\n\t'Bip01_Spine1' has scale animation that
+      will be discarded.\n\t'Bip01_Spine2' has scale animation that will be discarded.\n\t'Bip01_L_Clavicle'
+      has translation animation that will be discarded.\n\t'Bip01_L_Clavicle' has
+      scale animation that will be discarded.\n\t'Bip01_L_UpperArm' has scale animation
+      that will be discarded.\n\t'Bip01_L_Forearm' has scale animation that will be
+      discarded.\n\t'Bip01_L_Hand' has scale animation that will be discarded.\n\t'Bip01_L_Finger0'
+      has scale animation that will be discarded.\n\t'Bip01_R_Clavicle' has translation
+      animation that will be discarded.\n\t'Bip01_R_Clavicle' has scale animation
+      that will be discarded.\n\t'Bip01_R_UpperArm' has scale animation that will
+      be discarded.\n\t'Bip01_R_Hand' has scale animation that will be discarded.\n\t'Bip01_R_Finger0'
+      has scale animation that will be discarded.\n\t'Bip01_L_Thigh' has translation
+      animation that will be discarded.\n\t'Bip01_L_Thigh' has scale animation that
+      will be discarded.\n\t'Bip01_L_Foot' has scale animation that will be discarded.\n\t'Bip01_L_Toe0'
+      has scale animation that will be discarded.\n\t'Bip01_R_Thigh' has translation
+      animation that will be discarded.\n\t'Bip01_R_Foot' has scale animation that
+      will be discarded.\n\t'Bip01_R_Toe0' has scale animation that will be discarded.\n\nClip
+      'WizardGetup' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Bip01_Pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_Spine'
+      has translation animation that will be discarded.\n\t'Bip01_Spine' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_Spine1'
+      has scale animation that will be discarded.\n\t'Bip01_Head' has scale animation
+      that will be discarded.\n\t'Bip01_L_Clavicle' has translation animation that
+      will be discarded.\n\t'Bip01_L_Clavicle' has scale animation that will be discarded.\n\t'Bip01_L_UpperArm'
+      has scale animation that will be discarded.\n\t'Bip01_L_Forearm' has scale animation
+      that will be discarded.\n\t'Bip01_L_Hand' has scale animation that will be discarded.\n\t'Bip01_L_Finger0'
+      has scale animation that will be discarded.\n\t'Bip01_L_Finger01' has scale
+      animation that will be discarded.\n\t'Bip01_R_Clavicle' has translation animation
+      that will be discarded.\n\t'Bip01_R_Clavicle' has scale animation that will
+      be discarded.\n\t'Bip01_R_UpperArm' has scale animation that will be discarded.\n\t'Bip01_R_Forearm'
+      has scale animation that will be discarded.\n\t'Bip01_R_Hand' has scale animation
+      that will be discarded.\n\t'Bip01_R_Finger0' has scale animation that will be
+      discarded.\n\t'Bip01_R_Finger01' has scale animation that will be discarded.\n\t'Bip01_L_Thigh'
+      has translation animation that will be discarded.\n\t'Bip01_L_Thigh' has scale
+      animation that will be discarded.\n\t'Bip01_L_Foot' has scale animation that
+      will be discarded.\n\t'Bip01_R_Thigh' has translation animation that will be
+      discarded.\n\t'Bip01_R_Thigh' has scale animation that will be discarded.\n\t'Bip01_R_Foot'
+      has scale animation that will be discarded.\n\nClip 'WizardRun' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation DOF
+      on avatar to improve retargeting quality.\n\t'Bip01_Pelvis' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'Bip01_Spine'
+      has translation animation that will be discarded.\n\t'Bip01_Spine' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_Spine2'
+      has scale animation that will be discarded.\n\t'Bip01_L_Clavicle' has scale
+      animation that will be discarded.\n\t'Bip01_L_UpperArm' has scale animation
+      that will be discarded.\n\t'Bip01_L_Hand' has scale animation that will be discarded.\n\t'Bip01_L_Finger0'
+      has scale animation that will be discarded.\n\t'Bip01_R_Clavicle' has scale
+      animation that will be discarded.\n\t'Bip01_R_UpperArm' has scale animation
+      that will be discarded.\n\t'Bip01_R_Hand' has scale animation that will be discarded.\n\t'Bip01_L_Thigh'
+      has translation animation that will be discarded.\n\t'Bip01_L_Thigh' has scale
+      animation that will be discarded.\n\t'Bip01_R_Thigh' has translation animation
+      that will be discarded.\n\t'Bip01_R_Thigh' has scale animation that will be
+      discarded.\n\nClip 'WizardWalk' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'Bip01' has scale animation that will be discarded.\n\t'Bip01_Pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_Spine'
+      has translation animation that will be discarded.\n\t'Bip01_Spine' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_L_UpperArm'
+      has scale animation that will be discarded.\n\t'Bip01_L_Hand' has scale animation
+      that will be discarded.\n\t'Bip01_L_Finger0' has scale animation that will be
+      discarded.\n\t'Bip01_L_Finger1' has scale animation that will be discarded.\n\t'Bip01_R_Clavicle'
+      has scale animation that will be discarded.\n\t'Bip01_R_UpperArm' has scale
+      animation that will be discarded.\n\t'Bip01_R_Hand' has scale animation that
+      will be discarded.\n\t'Bip01_R_Finger0' has scale animation that will be discarded.\n\t'Bip01_R_Finger1'
+      has scale animation that will be discarded.\n\t'Bip01_L_Thigh' has translation
+      animation that will be discarded.\n\t'Bip01_L_Thigh' has scale animation that
+      will be discarded.\n\t'Bip01_R_Thigh' has translation animation that will be
+      discarded.\n\nClip 'WizardWalkB' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'Bip01_Pelvis' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'Bip01_Spine' has translation animation
+      that will be discarded.\n\t'Bip01_Spine' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'Bip01_Spine1' has scale animation
+      that will be discarded.\n\t'Bip01_L_Clavicle' has scale animation that will
+      be discarded.\n\t'Bip01_L_UpperArm' has scale animation that will be discarded.\n\t'Bip01_L_Hand'
+      has scale animation that will be discarded.\n\t'Bip01_L_Finger0' has scale animation
+      that will be discarded.\n\t'Bip01_R_Clavicle' has scale animation that will
+      be discarded.\n\t'Bip01_R_UpperArm' has scale animation that will be discarded.\n\t'Bip01_R_Forearm'
+      has scale animation that will be discarded.\n\t'Bip01_R_Hand' has scale animation
+      that will be discarded.\n\t'Bip01_R_Finger0' has scale animation that will be
+      discarded.\n\t'Bip01_R_Finger01' has scale animation that will be discarded.\n\t'Bip01_R_Finger1'
+      has scale animation that will be discarded.\n\t'Bip01_L_Thigh' has translation
+      animation that will be discarded.\n\t'Bip01_R_Thigh' has translation animation
+      that will be discarded.\n\nClip 'Jump' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'Bip01_Pelvis' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'Bip01_Spine' has translation
+      animation that will be discarded.\n\t'Bip01_Spine' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'Bip01_Spine' has scale
+      animation that will be discarded.\n\t'Bip01_Head' has scale animation that will
+      be discarded.\n\t'Bip01_L_Clavicle' has scale animation that will be discarded.\n\t'Bip01_L_UpperArm'
+      has scale animation that will be discarded.\n\t'Bip01_L_Hand' has scale animation
+      that will be discarded.\n\t'Bip01_R_Clavicle' has scale animation that will
+      be discarded.\n\t'Bip01_R_UpperArm' has scale animation that will be discarded.\n\t'Bip01_R_Hand'
+      has scale animation that will be discarded.\n\t'Bip01_L_Thigh' has translation
+      animation that will be discarded.\n\t'Bip01_L_Thigh' has scale animation that
+      will be discarded.\n\t'Bip01_R_Thigh' has translation animation that will be
+      discarded.\n\t'Bip01_R_Foot' has scale animation that will be discarded.\n\nClip
+      'NPCDissapointed' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Bip01_Pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_Spine'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_Spine'
+      has scale animation that will be discarded.\n\t'Bip01_Spine2' has scale animation
+      that will be discarded.\n\t'Bip01_L_UpperArm' has scale animation that will
+      be discarded.\n\t'Bip01_L_Hand' has scale animation that will be discarded.\n\t'Bip01_L_Finger0'
+      has scale animation that will be discarded.\n\t'Bip01_L_Finger1' has scale animation
+      that will be discarded.\n\t'Bip01_R_UpperArm' has scale animation that will
+      be discarded.\n\t'Bip01_R_Hand' has scale animation that will be discarded.\n\t'Bip01_R_Finger1'
+      has scale animation that will be discarded.\n\t'Bip01_L_Thigh' has translation
+      animation that will be discarded.\n\t'Bip01_L_Thigh' has scale animation that
+      will be discarded.\n\t'Bip01_R_Thigh' has translation animation that will be
+      discarded.\n\nClip 'NPCExplanation' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'Bip01_Spine' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'Bip01_Head' has scale animation
+      that will be discarded.\n\t'Bip01_L_UpperArm' has scale animation that will
+      be discarded.\n\t'Bip01_L_Hand' has scale animation that will be discarded.\n\t'Bip01_L_Finger0'
+      has scale animation that will be discarded.\n\t'Bip01_R_UpperArm' has scale
+      animation that will be discarded.\n\t'Bip01_R_Hand' has scale animation that
+      will be discarded.\n\t'Bip01_L_Thigh' has translation animation that will be
+      discarded.\n\t'Bip01_L_Thigh' has scale animation that will be discarded.\n\t'Bip01_R_Thigh'
+      has translation animation that will be discarded.\n\nClip 'NPCPointingA' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'Bip01_Spine' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Bip01_Spine'
+      has scale animation that will be discarded.\n\t'Bip01_L_Clavicle' has scale
+      animation that will be discarded.\n\t'Bip01_L_UpperArm' has scale animation
+      that will be discarded.\n\t'Bip01_L_Hand' has scale animation that will be discarded.\n\t'Bip01_L_Finger0'
+      has scale animation that will be discarded.\n\t'Bip01_L_Finger1' has scale animation
+      that will be discarded.\n\t'Bip01_R_UpperArm' has scale animation that will
+      be discarded.\n\t'Bip01_L_Thigh' has translation animation that will be discarded.\n\t'Bip01_L_Foot'
+      has scale animation that will be discarded.\n\t'Bip01_R_Thigh' has translation
+      animation that will be discarded.\n\t'Bip01_R_Thigh' has scale animation that
+      will be discarded.\n\t'Bip01_R_Foot' has scale animation that will be discarded.\n\nClip
+      'NPCUseObject' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Bip01'
+      has scale animation that will be discarded.\n\t'Bip01_Spine' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'Bip01_Spine'
+      has scale animation that will be discarded.\n\t'Bip01_L_Clavicle' has scale
+      animation that will be discarded.\n\t'Bip01_L_UpperArm' has scale animation
+      that will be discarded.\n\t'Bip01_L_Hand' has scale animation that will be discarded.\n\t'Bip01_R_Clavicle'
+      has scale animation that will be discarded.\n\t'Bip01_R_UpperArm' has scale
+      animation that will be discarded.\n\t'Bip01_R_Hand' has scale animation that
+      will be discarded.\n\t'Bip01_R_Finger0' has scale animation that will be discarded.\n\t'Bip01_R_Finger1'
+      has scale animation that will be discarded.\n\t'Bip01_L_Thigh' has translation
+      animation that will be discarded.\n\t'Bip01_L_Thigh' has scale animation that
+      will be discarded.\n\t'Bip01_R_Thigh' has translation animation that will be
+      discarded.\n\nClip 'NPCArmKickRight' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'Bip01_Spine' has translation animation that will be
+      discarded.\n\t'Bip01_Spine' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'Bip01_Spine1' has scale animation that
+      will be discarded.\n\t'Bip01_Head' has scale animation that will be discarded.\n\t'Bip01_L_Clavicle'
+      has translation animation that will be discarded.\n\t'Bip01_L_Clavicle' has
+      scale animation that will be discarded.\n\t'Bip01_L_UpperArm' has scale animation
+      that will be discarded.\n\t'Bip01_L_Hand' has scale animation that will be discarded.\n\t'Bip01_L_Finger0'
+      has scale animation that will be discarded.\n\t'Bip01_L_Finger1' has scale animation
+      that will be discarded.\n\t'Bip01_R_Clavicle' has translation animation that
+      will be discarded.\n\t'Bip01_R_Clavicle' has scale animation that will be discarded.\n\t'Bip01_R_UpperArm'
+      has scale animation that will be discarded.\n\t'Bip01_R_Forearm' has scale animation
+      that will be discarded.\n\t'Bip01_R_Hand' has scale animation that will be discarded.\n\t'Bip01_R_Finger1'
+      has scale animation that will be discarded.\n\t'Bip01_L_Thigh' has translation
+      animation that will be discarded.\n\t'Bip01_L_Thigh' has scale animation that
+      will be discarded.\n\t'Bip01_L_Foot' has scale animation that will be discarded.\n\t'Bip01_R_Thigh'
+      has translation animation that will be discarded.\n\t'Bip01_R_Thigh' has scale
+      animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Bip01
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01_L_Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01_R_Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01_L_Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01_R_Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01_L_Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01_R_Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01_Spine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01_Spine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01_L_Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01_R_Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01_L_UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01_R_UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01_L_Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01_R_Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01_L_Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01_R_Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01_L_Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01_R_Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftEye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightEye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mouth
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01_L_Finger0
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01_L_Finger01
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01_L_Finger1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01_L_Finger11
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01_L_Finger12
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01_R_Finger0
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01_R_Finger01
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01_R_Finger1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01_R_Finger11
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01_R_Finger12
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bip01_Neck
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: mMageFull(2010)(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GuildArms1
+      parentName: mMageFull(2010)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeatherArmourGloves_jpg
+      parentName: mMageFull(2010)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head
+      parentName: mMageFull(2010)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Teeth
+      parentName: mMageFull(2010)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MageLegs
+      parentName: mMageFull(2010)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MageTorso
+      parentName: mMageFull(2010)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MageRobe
+      parentName: mMageFull(2010)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MageBoots
+      parentName: mMageFull(2010)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MageSash
+      parentName: mMageFull(2010)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: defaultMat
+      parentName: mMageFull(2010)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bip01
+      parentName: mMageFull(2010)(Clone)
+      position: {x: -0.0075075, y: 1.1076988, z: -0.06197136}
+      rotation: {x: -0.5, y: 0.49999997, z: 0.5, w: 0.5}
+      scale: {x: 1.0000004, y: 0.99999994, z: 0.99999976}
+    - name: Bip01_Pelvis
+      parentName: Bip01
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.5, y: -0.49999994, z: -0.50000006, w: -0.5}
+      scale: {x: 0.9999984, y: 0.99999964, z: 0.9999997}
+    - name: Bip01_Spine
+      parentName: Bip01_Pelvis
+      position: {x: -0.078836784, y: 0.00791306, z: -0.011747859}
+      rotation: {x: -0.051721994, y: -0.0730805, z: -0.034686953, w: 0.9953798}
+      scale: {x: 1.000001, y: 0.9999996, z: 0.99999994}
+    - name: Bip01_L_Thigh
+      parentName: Bip01_Spine
+      position: {x: 0.09933357, y: -0.013126537, z: 0.13045025}
+      rotation: {x: -0.06009612, y: 0.9948084, z: 0.053658977, w: -0.062173527}
+      scale: {x: 1.0000046, y: 1.0000008, z: 1.0000023}
+    - name: Bip01_L_Calf
+      parentName: Bip01_L_Thigh
+      position: {x: -0.48418623, y: 0.000049161514, z: -0.017439691}
+      rotation: {x: -0.00000006426126, y: -0.000000067055225, z: 0.08948709, w: 0.995988}
+      scale: {x: 0.9999984, y: 1.0000002, z: 1.000002}
+    - name: Bip01_L_Foot
+      parentName: Bip01_L_Calf
+      position: {x: -0.46130198, y: -0.00001766056, z: -0.010463731}
+      rotation: {x: 0.0005799665, y: 0.009555079, z: -0.063540764, w: 0.9979334}
+      scale: {x: 1.0000023, y: 0.9999983, z: 0.99999917}
+    - name: Bip01_L_Toe0
+      parentName: Bip01_L_Foot
+      position: {x: -0.13227688, y: 0.14963603, z: 0.00000006}
+      rotation: {x: -0.0000001201988, y: -0.00000019604337, z: -0.7071061, w: 0.7071075}
+      scale: {x: 0.9999932, y: 1.0000068, z: 1}
+    - name: Bip01_R_Thigh
+      parentName: Bip01_Spine
+      position: {x: 0.06093576, y: 0.0120890485, z: -0.1630426}
+      rotation: {x: -0.061045427, y: 0.9933811, z: 0.05354692, w: -0.081242144}
+      scale: {x: 1.0000012, y: 1.0000017, z: 1.0000017}
+    - name: Bip01_R_Calf
+      parentName: Bip01_R_Thigh
+      position: {x: -0.48436427, y: 0.000034563895, z: 0.010463788}
+      rotation: {x: 0.000000024214383, y: -0.000000029802319, z: 0.08948802, w: 0.99598795}
+      scale: {x: 1.0000021, y: 1.0000011, z: 1.0000012}
+    - name: Bip01_R_Foot
+      parentName: Bip01_R_Calf
+      position: {x: -0.46148083, y: -0.000004238796, z: 0.0034879597}
+      rotation: {x: -0.0005800159, y: -0.009555027, z: -0.063540995, w: 0.9979333}
+      scale: {x: 0.99999756, y: 0.9999981, z: 1.0000002}
+    - name: Bip01_R_Toe0
+      parentName: Bip01_R_Foot
+      position: {x: -0.13227691, y: 0.149636, z: -0.00000002}
+      rotation: {x: -0.00000055533013, y: -0.0000005248002, z: -0.70710665, w: 0.707107}
+      scale: {x: 1.0000006, y: 1.0000004, z: 1.0000004}
+    - name: Bip01_Spine1
+      parentName: Bip01_Spine
+      position: {x: -0.10810598, y: -0.0000977, z: 0.00000216}
+      rotation: {x: -0.051690884, y: -0.07310199, z: -0.034291036, w: -0.9953936}
+      scale: {x: 1.0000002, y: 1.0000002, z: 0.9999948}
+    - name: Bip01_Spine2
+      parentName: Bip01_Spine1
+      position: {x: -0.16087222, y: 0.00109743, z: 0.00000474}
+      rotation: {x: 0.00000008568167, y: 0.000000059604638, z: 0.00000005727633, w: 1}
+      scale: {x: 1.0000004, y: 0.99999994, z: 1.0000001}
+    - name: Bip01_back_left_Wmount
+      parentName: Bip01_Spine2
+      position: {x: -0.25040665, y: -0.22846405, z: 0.121454105}
+      rotation: {x: 0.14211851, y: -0.69278806, z: 0.69280934, w: 0.14093347}
+      scale: {x: 0.9999994, y: 1.0000039, z: 0.99999756}
+    - name: qiuver_01
+      parentName: Bip01_back_left_Wmount
+      position: {x: 0.00000031, y: -0.00000014999999, z: 0.00000002}
+      rotation: {x: 0.0000005, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bip01_Neck
+      parentName: Bip01_Spine2
+      position: {x: -0.2548067, y: -0.0023492698, z: -6.0140337e-13}
+      rotation: {x: -0.00000007752806, y: 0.00000089867484, z: -0.22495116, w: 0.9743701}
+      scale: {x: 1.0000007, y: 1.0000023, z: 0.9999998}
+    - name: Bip01_Head
+      parentName: Bip01_Neck
+      position: {x: -0.072281055, y: -0.00000016905382, z: 4.934872e-15}
+      rotation: {x: -0.00000003019797, y: -0.0000019383745, z: 0.08755427, w: 0.9961598}
+      scale: {x: 1.000004, y: 1.0000045, z: 1.0000021}
+    - name: RightEye
+      parentName: Bip01_Head
+      position: {x: -0.13594252, y: 0.052378766, z: -0.03775856}
+      rotation: {x: 0.51817447, y: -0.45164132, z: -0.54781455, w: -0.47688016}
+      scale: {x: 1.0000061, y: 1.000003, z: 0.99999076}
+    - name: LeftEye
+      parentName: Bip01_Head
+      position: {x: -0.1358461, y: 0.05170005, z: 0.032651268}
+      rotation: {x: 0.51817447, y: -0.45164132, z: -0.54781455, w: -0.47688016}
+      scale: {x: 1.0000061, y: 1.000003, z: 0.99999076}
+    - name: LeftEyeLidUPPER
+      parentName: Bip01_Head
+      position: {x: -0.13960709, y: 0.058805916, z: 0.03606758}
+      rotation: {x: 0.5357964, y: -0.46143493, z: -0.5357965, w: -0.46143493}
+      scale: {x: 1.000007, y: 1.0000012, z: 0.99999106}
+    - name: LeftEyeLidLOWER
+      parentName: Bip01_Head
+      position: {x: -0.13402283, y: 0.05848866, z: 0.03689648}
+      rotation: {x: 0.5357964, y: -0.46143493, z: -0.5357965, w: -0.46143493}
+      scale: {x: 1.000007, y: 1.0000012, z: 0.99999106}
+    - name: RightEyeLidUPPER
+      parentName: Bip01_Head
+      position: {x: -0.1398836, y: 0.058525648, z: -0.040638607}
+      rotation: {x: 0.5357964, y: -0.46143493, z: -0.5357965, w: -0.46143493}
+      scale: {x: 1.000007, y: 1.0000012, z: 0.99999106}
+    - name: RightEyeLidLOWER
+      parentName: Bip01_Head
+      position: {x: -0.13431947, y: 0.05799856, z: -0.03929729}
+      rotation: {x: 0.5357964, y: -0.46143493, z: -0.5357965, w: -0.46143493}
+      scale: {x: 1.000007, y: 1.0000008, z: 0.9999874}
+    - name: Mouth
+      parentName: Bip01_Head
+      position: {x: -0.06949477, y: 0.067657806, z: 0.0017076199}
+      rotation: {x: 0.5379732, y: -0.45889524, z: -0.5379733, w: -0.45889527}
+      scale: {x: 1.0000043, y: 1.0000055, z: 0.99998903}
+    - name: Bip01_L_Clavicle
+      parentName: Bip01_Neck
+      position: {x: 0.0585919, y: 0.012645613, z: 0.041005496}
+      rotation: {x: 0.68451077, y: 0.17733076, z: -0.6928526, w: 0.14125933}
+      scale: {x: 1.0002655, y: 1.0000178, z: 0.99972796}
+    - name: Bip01_L_UpperArm
+      parentName: Bip01_L_Clavicle
+      position: {x: -0.14347649, y: -0.00057677005, z: 0.00000017116736}
+      rotation: {x: 0.017354438, y: -0.024561651, z: 0.025898097, w: 0.9992122}
+      scale: {x: 1.000378, y: 0.9999941, z: 0.9996295}
+    - name: Bip01_L_Forearm
+      parentName: Bip01_L_UpperArm
+      position: {x: -0.33752605, y: -0.0016387908, z: 0.0009921299}
+      rotation: {x: 0.00000010058282, y: -0.000000029802315, z: 0.026710363, w: 0.99964327}
+      scale: {x: 0.9997886, y: 1.000213, z: 1.0000014}
+    - name: Bip01_L_Hand
+      parentName: Bip01_L_Forearm
+      position: {x: -0.36775267, y: 0.0016146912, z: 0.00122498}
+      rotation: {x: 0.73711944, y: -0.012456469, z: 0.0110740205, w: -0.67555696}
+      scale: {x: 0.9999869, y: 1.0008606, z: 0.9991544}
+    - name: bone_bow
+      parentName: Bip01_L_Hand
+      position: {x: -0, y: 0, z: 0.00000014999999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bow_animation_controller
+      parentName: bone_bow
+      position: {x: 0.015818289, y: 0.043721616, z: -0.00095615996}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bip01_L_Finger0
+      parentName: Bip01_L_Hand
+      position: {x: -0.04259069, y: 0.009633258, z: -0.046640567}
+      rotation: {x: -0.8084646, y: 0.037594937, z: -0.029089835, w: -0.5866221}
+      scale: {x: 1.0002704, y: 1.0005374, z: 0.999205}
+    - name: Bip01_L_Finger01
+      parentName: Bip01_L_Finger0
+      position: {x: -0.023037128, y: -0.000000019809045, z: -0.00000016}
+      rotation: {x: 0.0000020265563, y: -0.000029906605, z: -0.037855487, w: 0.9992832}
+      scale: {x: 0.99998873, y: 1.0000141, z: 1.0000004}
+    - name: Bip01_L_Finger02
+      parentName: Bip01_L_Finger01
+      position: {x: -0.01973022, y: -0.00000020995503, z: 0.00000031}
+      rotation: {x: 0, y: -0, z: -0.03812734, w: 0.9992729}
+      scale: {x: 1.0000013, y: 0.99999845, z: 1}
+    - name: Bip01_L_Finger1
+      parentName: Bip01_L_Hand
+      position: {x: -0.09844982, y: 0.00000038, z: -0.00000009000006}
+      rotation: {x: -0.00039798, y: -0.000000013969832, z: 0.0000000037252885, w: 1}
+      scale: {x: 1.0002624, y: 0.9997354, z: 1.0000026}
+    - name: Bip01_L_Finger11
+      parentName: Bip01_L_Finger1
+      position: {x: -0.027948078, y: 0.00000004006498, z: 0.00000002}
+      rotation: {x: 0.00000012316735, y: 0.00000006775252, z: -0.02067441, w: 0.99978626}
+      scale: {x: 0.99986756, y: 1.0001322, z: 1.0000005}
+    - name: Bip01_L_Finger12
+      parentName: Bip01_L_Finger11
+      position: {x: -0.026694922, y: -0.0008252913, z: -0.00015006965}
+      rotation: {x: -0.000000028697784, y: 0.000000015990217, z: -0.0032213407, w: 0.9999948}
+      scale: {x: 1.0000887, y: 0.9999113, z: 1.000001}
+    - name: Bip01_Rhand_WeaponOpp
+      parentName: Bip01_L_Hand
+      position: {x: -0.07391051, y: 0.025712809, z: -0.0007244799}
+      rotation: {x: -0.4975201, y: -0.5029858, z: -0.50243604, w: 0.49702838}
+      scale: {x: 1.0010961, y: 1.0000474, z: 0.9988638}
+    - name: Bip01_R_Clavicle
+      parentName: Bip01_Neck
+      position: {x: 0.058485515, y: 0.012648089, z: -0.041143518}
+      rotation: {x: -0.6845106, y: -0.17732668, z: -0.69285357, w: 0.14126}
+      scale: {x: 1.0004439, y: 1.0000552, z: 0.9995003}
+    - name: Bip01_R_UpperArm
+      parentName: Bip01_R_Clavicle
+      position: {x: -0.15998827, y: -0.0014422104, z: -0.00000015132325}
+      rotation: {x: 0.020088019, y: -0.025010306, z: -0.018697921, w: -0.9993105}
+      scale: {x: 1.0007293, y: 1.0000494, z: 0.9992197}
+    - name: Bip01_R_Forearm
+      parentName: Bip01_R_UpperArm
+      position: {x: -0.34813356, y: -0.00196651, z: -0.00119005}
+      rotation: {x: -0.000000014901159, y: -0.000000029802319, z: 0.026713077, w: 0.99964315}
+      scale: {x: 0.9998019, y: 1.0001978, z: 1.0000014}
+    - name: Bip01_R_Hand
+      parentName: Bip01_R_Forearm
+      position: {x: -0.35527134, y: 0.00130694, z: -0.00099098}
+      rotation: {x: -0.7371262, y: 0.012457958, z: 0.011075281, w: -0.67554957}
+      scale: {x: 0.99989283, y: 1.0019073, z: 0.99820876}
+    - name: Bip01_R_Finger0
+      parentName: Bip01_R_Hand
+      position: {x: -0.0425907, y: 0.009633261, z: 0.0466405}
+      rotation: {x: 0.8084443, y: -0.037353717, z: -0.029520154, w: -0.5866438}
+      scale: {x: 0.99929774, y: 1.0019453, z: 0.9987634}
+    - name: Bip01_R_Finger01
+      parentName: Bip01_R_Finger0
+      position: {x: -0.023036959, y: 0.00000018009666, z: -0.00000031}
+      rotation: {x: -0.000004619358, y: 0.000059394144, z: -0.037711192, w: 0.9992887}
+      scale: {x: 0.99976546, y: 1.0002366, z: 1.0000004}
+    - name: Bip01_R_Finger02
+      parentName: Bip01_R_Finger01
+      position: {x: -0.019730149, y: -0.00000007006475, z: -0.00000014999998}
+      rotation: {x: 0, y: -0, z: -0.038128838, w: 0.9992728}
+      scale: {x: 1.0000015, y: 0.9999986, z: 1}
+    - name: Bip01_R_Finger1
+      parentName: Bip01_R_Hand
+      position: {x: -0.098449975, y: -1.5423269e-15, z: 0.00000001}
+      rotation: {x: 0.00039795035, y: -0.000000052154057, z: 0.00000007729977, w: 1}
+      scale: {x: 1.000695, y: 0.99930096, z: 1.000001}
+    - name: Bip01_R_Finger11
+      parentName: Bip01_R_Finger1
+      position: {x: -0.03427434, y: 0.0010156485, z: -0.00084424764}
+      rotation: {x: -0.0000000054424145, y: -0.000000032926657, z: -0.020674992, w: 0.99978626}
+      scale: {x: 0.9995637, y: 1.0004387, z: 1.0000001}
+    - name: Bip01_R_Finger12
+      parentName: Bip01_R_Finger11
+      position: {x: -0.02220763, y: -0.00000008002009, z: -0.00000001}
+      rotation: {x: -0.000000090916096, y: -0.0000000020538693, z: -0.0032215163,
+        w: 0.9999949}
+      scale: {x: 1.0002167, y: 0.9997846, z: 1.0000001}
+    - name: arrow_00
+      parentName: Bip01_R_Hand
+      position: {x: 0.00000008, y: 8.429694e-23, z: 0.00000009}
+      rotation: {x: -0.00000017881392, y: -0.00000011082737, z: 0.00000058673317,
+        w: 1}
+      scale: {x: 1, y: 0.9999995, z: 0.9999999}
+    - name: Bip01_Rhand_Weapon
+      parentName: Bip01_R_Hand
+      position: {x: -0.10005928, y: 0.03821404, z: 0.00071855995}
+      rotation: {x: -0.5072578, y: 0.48064154, z: 0.5122783, w: 0.49924365}
+      scale: {x: 1.0012428, y: 1.0005432, z: 0.99822295}
+    - name: Bip01_skirt_left
+      parentName: Bip01_Pelvis
+      position: {x: -0.113491364, y: 0.02716578, z: 0.16024218}
+      rotation: {x: -0.14729117, y: 0.691596, z: 0.69159687, w: 0.14728974}
+      scale: {x: 1.0000008, y: 0.99999785, z: 1.0000005}
+    - name: Bip01_skirt_left02
+      parentName: Bip01_skirt_left
+      position: {x: -0.14559814, y: -0.000103720195, z: 0}
+      rotation: {x: 0.00000006519257, y: -0.00000020861623, z: 0.061048605, w: 0.9981348}
+      scale: {x: 1.000001, y: 1.0000005, z: 1.0000001}
+    - name: Bip01_skirt_left03
+      parentName: Bip01_skirt_left02
+      position: {x: -0.13121277, y: -0.00011714999, z: 0}
+      rotation: {x: -0, y: -1.4210853e-14, z: 1.3600229e-14, w: 1}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: Bip01_left_Wmount
+      parentName: Bip01_Pelvis
+      position: {x: -0.088487625, y: 0.07194715, z: 0.2831271}
+      rotation: {x: -0.09370841, y: -0.020119809, z: 0.9735658, w: 0.20732479}
+      scale: {x: 0.99999976, y: 1.000001, z: 1.0000005}
+    - name: qiuver_02
+      parentName: Bip01_left_Wmount
+      position: {x: -0.00000008, y: -0.000000109999995, z: -0.00000019}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

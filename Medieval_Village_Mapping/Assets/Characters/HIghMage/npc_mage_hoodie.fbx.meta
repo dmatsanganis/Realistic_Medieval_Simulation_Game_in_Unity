@@ -1,0 +1,331 @@
+fileFormatVersion: 2
+guid: f9320807c09f1a74eab7bb5eb815326a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: arrow_00
+    100004: arrow_00_end
+    100006: Bip01
+    100008: Bip01_back_left_Wmount
+    100010: Bip01_Head
+    100012: Bip01_L_Calf
+    100014: Bip01_L_Clavicle
+    100016: Bip01_L_Finger0
+    100018: Bip01_L_Finger01
+    100020: Bip01_L_Finger02
+    100022: Bip01_L_Finger02_end
+    100024: Bip01_L_Finger1
+    100026: Bip01_L_Finger11
+    100028: Bip01_L_Finger12
+    100030: Bip01_L_Finger12_end
+    100032: Bip01_L_Foot
+    100034: Bip01_L_Forearm
+    100036: Bip01_L_Hand
+    100038: Bip01_L_Thigh
+    100040: Bip01_L_Toe0
+    100042: Bip01_L_Toe0_end
+    100044: Bip01_L_UpperArm
+    100046: Bip01_left_Wmount
+    100048: Bip01_Neck
+    100050: Bip01_Pelvis
+    100052: Bip01_R_Calf
+    100054: Bip01_R_Clavicle
+    100056: Bip01_R_Finger0
+    100058: Bip01_R_Finger01
+    100060: Bip01_R_Finger02
+    100062: Bip01_R_Finger02_end
+    100064: Bip01_R_Finger1
+    100066: Bip01_R_Finger11
+    100068: Bip01_R_Finger12
+    100070: Bip01_R_Finger12_end
+    100072: Bip01_R_Foot
+    100074: Bip01_R_Forearm
+    100076: Bip01_R_Hand
+    100078: Bip01_R_Thigh
+    100080: Bip01_R_Toe0
+    100082: Bip01_R_Toe0_end
+    100084: Bip01_R_UpperArm
+    100086: Bip01_Rhand_Weapon
+    100088: Bip01_Rhand_Weapon_end
+    100090: Bip01_Rhand_WeaponOpp
+    100092: Bip01_Rhand_WeaponOpp_end
+    100094: Bip01_skirt_left
+    100096: Bip01_skirt_left02
+    100098: Bip01_skirt_left03
+    100100: Bip01_skirt_left03_end
+    100102: Bip01_Spine
+    100104: Bip01_Spine1
+    100106: Bip01_Spine2
+    100108: bone_bow
+    100110: Bow_animation_controller
+    100112: Bow_animation_controller_end
+    100114: Camera
+    100116: GuildArms1
+    100118: Head
+    100120: LeatherArmourGloves_jpg
+    100122: LeftEye
+    100124: LeftEye_end
+    100126: LeftEyeLidLOWER
+    100128: LeftEyeLidLOWER_end
+    100130: LeftEyeLidUPPER
+    100132: LeftEyeLidUPPER_end
+    100134: Light
+    100136: MageBoots
+    100138: MageLegs
+    100140: MageRobe
+    100142: MageSash
+    100144: MageTorso
+    100146: Mouth
+    100148: Mouth_end
+    100150: //RootNode
+    100152: qiuver_01
+    100154: qiuver_01_end
+    100156: qiuver_02
+    100158: qiuver_02_end
+    100160: RightEye
+    100162: RightEye_end
+    100164: RightEyeLidLOWER
+    100166: RightEyeLidLOWER_end
+    100168: RightEyeLidUPPER
+    100170: RightEyeLidUPPER_end
+    100172: Teeth
+    400000: Armature
+    400002: arrow_00
+    400004: arrow_00_end
+    400006: Bip01
+    400008: Bip01_back_left_Wmount
+    400010: Bip01_Head
+    400012: Bip01_L_Calf
+    400014: Bip01_L_Clavicle
+    400016: Bip01_L_Finger0
+    400018: Bip01_L_Finger01
+    400020: Bip01_L_Finger02
+    400022: Bip01_L_Finger02_end
+    400024: Bip01_L_Finger1
+    400026: Bip01_L_Finger11
+    400028: Bip01_L_Finger12
+    400030: Bip01_L_Finger12_end
+    400032: Bip01_L_Foot
+    400034: Bip01_L_Forearm
+    400036: Bip01_L_Hand
+    400038: Bip01_L_Thigh
+    400040: Bip01_L_Toe0
+    400042: Bip01_L_Toe0_end
+    400044: Bip01_L_UpperArm
+    400046: Bip01_left_Wmount
+    400048: Bip01_Neck
+    400050: Bip01_Pelvis
+    400052: Bip01_R_Calf
+    400054: Bip01_R_Clavicle
+    400056: Bip01_R_Finger0
+    400058: Bip01_R_Finger01
+    400060: Bip01_R_Finger02
+    400062: Bip01_R_Finger02_end
+    400064: Bip01_R_Finger1
+    400066: Bip01_R_Finger11
+    400068: Bip01_R_Finger12
+    400070: Bip01_R_Finger12_end
+    400072: Bip01_R_Foot
+    400074: Bip01_R_Forearm
+    400076: Bip01_R_Hand
+    400078: Bip01_R_Thigh
+    400080: Bip01_R_Toe0
+    400082: Bip01_R_Toe0_end
+    400084: Bip01_R_UpperArm
+    400086: Bip01_Rhand_Weapon
+    400088: Bip01_Rhand_Weapon_end
+    400090: Bip01_Rhand_WeaponOpp
+    400092: Bip01_Rhand_WeaponOpp_end
+    400094: Bip01_skirt_left
+    400096: Bip01_skirt_left02
+    400098: Bip01_skirt_left03
+    400100: Bip01_skirt_left03_end
+    400102: Bip01_Spine
+    400104: Bip01_Spine1
+    400106: Bip01_Spine2
+    400108: bone_bow
+    400110: Bow_animation_controller
+    400112: Bow_animation_controller_end
+    400114: Camera
+    400116: GuildArms1
+    400118: Head
+    400120: LeatherArmourGloves_jpg
+    400122: LeftEye
+    400124: LeftEye_end
+    400126: LeftEyeLidLOWER
+    400128: LeftEyeLidLOWER_end
+    400130: LeftEyeLidUPPER
+    400132: LeftEyeLidUPPER_end
+    400134: Light
+    400136: MageBoots
+    400138: MageLegs
+    400140: MageRobe
+    400142: MageSash
+    400144: MageTorso
+    400146: Mouth
+    400148: Mouth_end
+    400150: //RootNode
+    400152: qiuver_01
+    400154: qiuver_01_end
+    400156: qiuver_02
+    400158: qiuver_02_end
+    400160: RightEye
+    400162: RightEye_end
+    400164: RightEyeLidLOWER
+    400166: RightEyeLidLOWER_end
+    400168: RightEyeLidUPPER
+    400170: RightEyeLidUPPER_end
+    400172: Teeth
+    2000000: Camera
+    2100000: MageTorso
+    2100002: Teeth
+    2100004: LeatherArmourGloves_jpg
+    2100006: MageBoots
+    2100008: MageSash
+    2100010: MageLegs
+    2100012: Head
+    2100014: MageRobe
+    2100016: GuildArms1
+    4300000: MageTorso
+    4300002: Teeth
+    4300004: LeatherArmourGloves_jpg
+    4300006: MageBoots
+    4300008: MageSash
+    4300010: MageLegs
+    4300012: Head
+    4300014: MageRobe
+    4300016: GuildArms1
+    7400000: Armature|Armature|EyeBlink|Base Layer
+    7400002: Armature|Armature|Jump|Base Layer
+    7400004: Armature|Armature|NPCArmKickRight|Base Layer
+    7400006: Armature|Armature|NPCDissapointed|Base Layer
+    7400008: Armature|Armature|NPCExplanation|Base Layer
+    7400010: Armature|Armature|NPCPointingA|Base Layer
+    7400012: Armature|Armature|NPCUseObject|Base Layer
+    7400014: Armature|Armature|WizardBuffSpellA|Base Layer
+    7400016: Armature|Armature|WizardBuffSpellB|Base Layer
+    7400018: Armature|Armature|WizardCombatReadyA|Base Layer
+    7400020: Armature|Armature|WizardCombatReadyB|Base Layer
+    7400022: Armature|Armature|WizardCombatReadyC|Base Layer
+    7400024: Armature|Armature|WizardDeath|Base Layer
+    7400026: Armature|Armature|WizardDodgeToLeft|Base Layer
+    7400028: Armature|Armature|WizardDodgeToRight|Base Layer
+    7400030: Armature|Armature|WizardDrinkingPotion|Base Layer
+    7400032: Armature|Armature|WizardDuckBelowSwing|Base Layer
+    7400034: Armature|Armature|WizardEarthQuakeSpell|Base Layer
+    7400036: Armature|Armature|WizardFireBallSpell|Base Layer
+    7400038: Armature|Armature|WizardGetup|Base Layer
+    7400040: Armature|Armature|WizardHelixSpell|Base Layer
+    7400042: Armature|Armature|WizardMagicLightSpell|Base Layer
+    7400044: Armature|Armature|WizardMagicShotSpell|Base Layer
+    7400046: Armature|Armature|WizardMixPotion|Base Layer
+    7400048: Armature|Armature|WizardRun|Base Layer
+    7400050: Armature|Armature|WizardSpellCastA|Base Layer
+    7400052: Armature|Armature|WizardSpellCastB|Base Layer
+    7400054: Armature|Armature|WizardSpellCastC|Base Layer
+    7400056: Armature|Armature|WizardSpellCastD|Base Layer
+    7400058: Armature|Armature|WizardStaffBlock|Base Layer
+    7400060: Armature|Armature|WizardStaffHit|Base Layer
+    7400062: Armature|Armature|WizardStaffSwingRight|Base Layer
+    7400064: Armature|Armature|WizardStaffTakingHit|Base Layer
+    7400066: Armature|Armature|WizardStraightDownHit|Base Layer
+    7400068: Armature|Armature|WizardWalkB|Base Layer
+    7400070: Armature|Armature|WizardWalk|Base Layer
+    9500000: //RootNode
+    10800000: Light
+    13700000: GuildArms1
+    13700002: Head
+    13700004: LeatherArmourGloves_jpg
+    13700006: MageBoots
+    13700008: MageLegs
+    13700010: MageRobe
+    13700012: MageSash
+    13700014: MageTorso
+    13700016: Teeth
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
