@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: a0b72fd362e3607418e7780c1419b223
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: body
+    100004: Camera
+    100006: chest
+    100008: chestcontrol
+    100010: cloth
+    100012: dagger
+    100014: daggercase
+    100016: head
+    100018: headcontrol
+    100020: hipcontrol
+    100022: hips
+    100024: Joint_3
+    100026: Joint_3_2
+    100028: Joint_3_2_2
+    100030: Joint_3_2_2_end
+    100032: Joint_3_2_3
+    100034: Joint_3_2_3_end
+    100036: Joint_3_2_end
+    100038: Joint_3_3
+    100040: Joint_3_3_2
+    100042: Joint_3_3_2_end
+    100044: Joint_3_3_end
+    100046: Joint_3_4
+    100048: Joint_3_4_2
+    100050: Joint_3_4_2_end
+    100052: Joint_3_4_end
+    100054: Joint_3_5
+    100056: Joint_3_5_2
+    100058: Joint_3_5_2_end
+    100060: Joint_3_5_end
+    100062: Joint_3_end
+    100064: L_anke
+    100066: L_anke_Goal
+    100068: L_arm
+    100070: L_arm_Goal
+    100072: L_arm_Pole
+    100074: L_elbow
+    100076: L_foot
+    100078: L_knee
+    100080: L_leg
+    100082: L_leg_Pole
+    100084: L_middle1
+    100086: L_middle2
+    100088: L_middle3
+    100090: L_pink1
+    100092: L_pink2
+    100094: L_pink3
+    100096: L_point1
+    100098: L_point2
+    100100: L_point3
+    100102: L_ring1
+    100104: L_ring2
+    100106: L_ring3
+    100108: L_shoulder
+    100110: L_thumb1
+    100112: L_thumb2
+    100114: L_thumb3
+    100116: L_toes
+    100118: L_toes_end
+    100120: L_wrist
+    100122: L_wrist_Goal
+    100124: Light
+    100126: Maul
+    100128: meshes
+    100130: neck
+    100132: neckcontrol
+    100134: //RootNode
+    100136: Plane003
+    100138: R_anke
+    100140: R_anke_Goal
+    100142: R_arm
+    100144: R_arm_Goal
+    100146: R_arm_Pole
+    100148: R_elbow
+    100150: R_foot
+    100152: R_knee
+    100154: R_leg
+    100156: R_leg_Pole
+    100158: R_middle1
+    100160: R_middle2
+    100162: R_middle3
+    100164: R_pink1
+    100166: R_pink2
+    100168: R_pink3
+    100170: R_point1
+    100172: R_point2
+    100174: R_point3
+    100176: R_ring1
+    100178: R_ring2
+    100180: R_ring3
+    100182: R_shoulder
+    100184: R_thumb1
+    100186: R_thumb2
+    100188: R_thumb3
+    100190: R_toes
+    100192: R_toes_end
+    100194: R_wrist
+    100196: R_wrist_Goal
+    100198: spine
+    100200: spinecontrol
+    100202: tip
+    100204: tip_end
+    400000: Armature
+    400002: body
+    400004: Camera
+    400006: chest
+    400008: chestcontrol
+    400010: cloth
+    400012: dagger
+    400014: daggercase
+    400016: head
+    400018: headcontrol
+    400020: hipcontrol
+    400022: hips
+    400024: Joint_3
+    400026: Joint_3_2
+    400028: Joint_3_2_2
+    400030: Joint_3_2_2_end
+    400032: Joint_3_2_3
+    400034: Joint_3_2_3_end
+    400036: Joint_3_2_end
+    400038: Joint_3_3
+    400040: Joint_3_3_2
+    400042: Joint_3_3_2_end
+    400044: Joint_3_3_end
+    400046: Joint_3_4
+    400048: Joint_3_4_2
+    400050: Joint_3_4_2_end
+    400052: Joint_3_4_end
+    400054: Joint_3_5
+    400056: Joint_3_5_2
+    400058: Joint_3_5_2_end
+    400060: Joint_3_5_end
+    400062: Joint_3_end
+    400064: L_anke
+    400066: L_anke_Goal
+    400068: L_arm
+    400070: L_arm_Goal
+    400072: L_arm_Pole
+    400074: L_elbow
+    400076: L_foot
+    400078: L_knee
+    400080: L_leg
+    400082: L_leg_Pole
+    400084: L_middle1
+    400086: L_middle2
+    400088: L_middle3
+    400090: L_pink1
+    400092: L_pink2
+    400094: L_pink3
+    400096: L_point1
+    400098: L_point2
+    400100: L_point3
+    400102: L_ring1
+    400104: L_ring2
+    400106: L_ring3
+    400108: L_shoulder
+    400110: L_thumb1
+    400112: L_thumb2
+    400114: L_thumb3
+    400116: L_toes
+    400118: L_toes_end
+    400120: L_wrist
+    400122: L_wrist_Goal
+    400124: Light
+    400126: Maul
+    400128: meshes
+    400130: neck
+    400132: neckcontrol
+    400134: //RootNode
+    400136: Plane003
+    400138: R_anke
+    400140: R_anke_Goal
+    400142: R_arm
+    400144: R_arm_Goal
+    400146: R_arm_Pole
+    400148: R_elbow
+    400150: R_foot
+    400152: R_knee
+    400154: R_leg
+    400156: R_leg_Pole
+    400158: R_middle1
+    400160: R_middle2
+    400162: R_middle3
+    400164: R_pink1
+    400166: R_pink2
+    400168: R_pink3
+    400170: R_point1
+    400172: R_point2
+    400174: R_point3
+    400176: R_ring1
+    400178: R_ring2
+    400180: R_ring3
+    400182: R_shoulder
+    400184: R_thumb1
+    400186: R_thumb2
+    400188: R_thumb3
+    400190: R_toes
+    400192: R_toes_end
+    400194: R_wrist
+    400196: R_wrist_Goal
+    400198: spine
+    400200: spinecontrol
+    400202: tip
+    400204: tip_end
+    2000000: Camera
+    2100000: weapons.001
+    2100002: knight.001
+    2100004: cloth.001
+    2100006: No Name
+    2300000: dagger
+    2300002: daggercase
+    2300004: Maul
+    2300006: Plane003
+    3300000: dagger
+    3300002: daggercase
+    3300004: Maul
+    3300006: Plane003
+    4300000: daggercase
+    4300002: dagger
+    4300004: Maul
+    4300006: body
+    4300008: cloth
+    4300010: Plane003
+    7400000: R_arm_Goal|bow_arrow_test|Take 001|BaseLayer
+    7400002: R_arm_Goal|bow_quiver_test|Take 001|BaseLayer
+    7400004: R_arm_Goal|bow_test|Take 001|BaseLayer
+    7400006: R_arm_Goal|chestcontrol|CINEMA_4D_Main|Layer0
+    7400008: R_arm_Goal|chestcontrol|CINEMA_4D_Main|Layer0.001
+    7400010: R_arm_Goal|hipcontrol|CINEMA_4D_Main|Layer0
+    7400012: R_arm_Goal|hipcontrol|CINEMA_4D_Main|Layer0.001
+    7400014: R_arm_Goal|IK Chain001|Take 001|BaseLayer
+    7400016: R_arm_Goal|IK Chain002|Take 001|BaseLayer
+    7400018: R_arm_Goal|IK Chain003|Take 001|BaseLayer
+    7400020: R_arm_Goal|IK Chain004|Take 001|BaseLayer
+    7400022: R_arm_Goal|IK Chain005|Take 001|BaseLayer
+    7400024: R_arm_Goal|IK Chain006|Take 001|BaseLayer
+    7400026: R_arm_Goal|L_arm_Goal|CINEMA_4D_Main|Layer0
+    7400028: R_arm_Goal|L_arm_Goal|CINEMA_4D_Main|Layer0.001
+    7400030: R_arm_Goal|oneHandedSword_test|Take 001|BaseLayer
+    7400032: R_arm_Goal|Point007|Take 001|BaseLayer
+    7400034: R_arm_Goal|Point008|Take 001|BaseLayer
+    7400036: R_arm_Goal|Point009|Take 001|BaseLayer
+    7400038: R_arm_Goal|Point010|Take 001|BaseLayer
+    7400040: R_arm_Goal|Point011|Take 001|BaseLayer
+    7400042: R_arm_Goal|Point012|Take 001|BaseLayer
+    7400044: R_arm_Goal|R_arm_Goal|CINEMA_4D_Main|Layer0
+    7400046: R_arm_Goal|R_arm_Goal|CINEMA_4D_Main|Layer0.001
+    7400048: R_arm_Goal|shield_test|Take 001|BaseLayer
+    7400050: R_arm_Goal|stick_test|Take 001|BaseLayer
+    7400052: R_arm_Goal|twoHandedAxe_test|Take 001|BaseLayer
+    7400054: R_arm_Goal|twoHandedStaff_test|Take 001|BaseLayer
+    7400056: L_arm_Goal|bow_arrow_test|Take 001|BaseLayer
+    7400058: L_arm_Goal|bow_quiver_test|Take 001|BaseLayer
+    7400060: L_arm_Goal|bow_test|Take 001|BaseLayer
+    7400062: L_arm_Goal|chestcontrol|CINEMA_4D_Main|Layer0
+    7400064: L_arm_Goal|chestcontrol|CINEMA_4D_Main|Layer0.001
+    7400066: L_arm_Goal|hipcontrol|CINEMA_4D_Main|Layer0
+    7400068: L_arm_Goal|hipcontrol|CINEMA_4D_Main|Layer0.001
+    7400070: L_arm_Goal|IK Chain001|Take 001|BaseLayer
+    7400072: L_arm_Goal|IK Chain002|Take 001|BaseLayer
+    7400074: L_arm_Goal|IK Chain003|Take 001|BaseLayer
+    7400076: L_arm_Goal|IK Chain004|Take 001|BaseLayer
+    7400078: L_arm_Goal|IK Chain005|Take 001|BaseLayer
+    7400080: L_arm_Goal|IK Chain006|Take 001|BaseLayer
+    7400082: L_arm_Goal|L_arm_Goal|CINEMA_4D_Main|Layer0
+    7400084: L_arm_Goal|L_arm_Goal|CINEMA_4D_Main|Layer0.001
+    7400086: L_arm_Goal|oneHandedSword_test|Take 001|BaseLayer
+    7400088: L_arm_Goal|Point007|Take 001|BaseLayer
+    7400090: L_arm_Goal|Point008|Take 001|BaseLayer
+    7400092: L_arm_Goal|Point009|Take 001|BaseLayer
+    7400094: L_arm_Goal|Point010|Take 001|BaseLayer
+    7400096: L_arm_Goal|Point011|Take 001|BaseLayer
+    7400098: L_arm_Goal|Point012|Take 001|BaseLayer
+    7400100: L_arm_Goal|R_arm_Goal|CINEMA_4D_Main|Layer0
+    7400102: L_arm_Goal|R_arm_Goal|CINEMA_4D_Main|Layer0.001
+    7400104: L_arm_Goal|shield_test|Take 001|BaseLayer
+    7400106: L_arm_Goal|stick_test|Take 001|BaseLayer
+    7400108: L_arm_Goal|twoHandedAxe_test|Take 001|BaseLayer
+    7400110: L_arm_Goal|twoHandedStaff_test|Take 001|BaseLayer
+    7400112: chestcontrol|bow_arrow_test|Take 001|BaseLayer
+    7400114: chestcontrol|bow_quiver_test|Take 001|BaseLayer
+    7400116: chestcontrol|bow_test|Take 001|BaseLayer
+    7400118: chestcontrol|chestcontrol|CINEMA_4D_Main|Layer0
+    7400120: chestcontrol|chestcontrol|CINEMA_4D_Main|Layer0.001
+    7400122: chestcontrol|hipcontrol|CINEMA_4D_Main|Layer0
+    7400124: chestcontrol|hipcontrol|CINEMA_4D_Main|Layer0.001
+    7400126: chestcontrol|IK Chain001|Take 001|BaseLayer
+    7400128: chestcontrol|IK Chain002|Take 001|BaseLayer
+    7400130: chestcontrol|IK Chain003|Take 001|BaseLayer
+    7400132: chestcontrol|IK Chain004|Take 001|BaseLayer
+    7400134: chestcontrol|IK Chain005|Take 001|BaseLayer
+    7400136: chestcontrol|IK Chain006|Take 001|BaseLayer
+    7400138: chestcontrol|L_arm_Goal|CINEMA_4D_Main|Layer0
+    7400140: chestcontrol|L_arm_Goal|CINEMA_4D_Main|Layer0.001
+    7400142: chestcontrol|oneHandedSword_test|Take 001|BaseLayer
+    7400144: chestcontrol|Point007|Take 001|BaseLayer
+    7400146: chestcontrol|Point008|Take 001|BaseLayer
+    7400148: chestcontrol|Point009|Take 001|BaseLayer
+    7400150: chestcontrol|Point010|Take 001|BaseLayer
+    7400152: chestcontrol|Point011|Take 001|BaseLayer
+    7400154: chestcontrol|Point012|Take 001|BaseLayer
+    7400156: chestcontrol|R_arm_Goal|CINEMA_4D_Main|Layer0
+    7400158: chestcontrol|R_arm_Goal|CINEMA_4D_Main|Layer0.001
+    7400160: chestcontrol|shield_test|Take 001|BaseLayer
+    7400162: chestcontrol|stick_test|Take 001|BaseLayer
+    7400164: chestcontrol|twoHandedAxe_test|Take 001|BaseLayer
+    7400166: chestcontrol|twoHandedStaff_test|Take 001|BaseLayer
+    7400168: hipcontrol|bow_arrow_test|Take 001|BaseLayer
+    7400170: hipcontrol|bow_quiver_test|Take 001|BaseLayer
+    7400172: hipcontrol|bow_test|Take 001|BaseLayer
+    7400174: hipcontrol|chestcontrol|CINEMA_4D_Main|Layer0
+    7400176: hipcontrol|chestcontrol|CINEMA_4D_Main|Layer0.001
+    7400178: hipcontrol|hipcontrol|CINEMA_4D_Main|Layer0
+    7400180: hipcontrol|hipcontrol|CINEMA_4D_Main|Layer0.001
+    7400182: hipcontrol|IK Chain001|Take 001|BaseLayer
+    7400184: hipcontrol|IK Chain002|Take 001|BaseLayer
+    7400186: hipcontrol|IK Chain003|Take 001|BaseLayer
+    7400188: hipcontrol|IK Chain004|Take 001|BaseLayer
+    7400190: hipcontrol|IK Chain005|Take 001|BaseLayer
+    7400192: hipcontrol|IK Chain006|Take 001|BaseLayer
+    7400194: hipcontrol|L_arm_Goal|CINEMA_4D_Main|Layer0
+    7400196: hipcontrol|L_arm_Goal|CINEMA_4D_Main|Layer0.001
+    7400198: hipcontrol|oneHandedSword_test|Take 001|BaseLayer
+    7400200: hipcontrol|Point007|Take 001|BaseLayer
+    7400202: hipcontrol|Point008|Take 001|BaseLayer
+    7400204: hipcontrol|Point009|Take 001|BaseLayer
+    7400206: hipcontrol|Point010|Take 001|BaseLayer
+    7400208: hipcontrol|Point011|Take 001|BaseLayer
+    7400210: hipcontrol|Point012|Take 001|BaseLayer
+    7400212: hipcontrol|R_arm_Goal|CINEMA_4D_Main|Layer0
+    7400214: hipcontrol|R_arm_Goal|CINEMA_4D_Main|Layer0.001
+    7400216: hipcontrol|shield_test|Take 001|BaseLayer
+    7400218: hipcontrol|stick_test|Take 001|BaseLayer
+    7400220: hipcontrol|twoHandedAxe_test|Take 001|BaseLayer
+    7400222: hipcontrol|twoHandedStaff_test|Take 001|BaseLayer
+    7400224: Armature|Armature.001|CINEMA_4D_Main|Layer0
+    7400226: Armature|Armature|CINEMA_4D_Main|Layer0
+    7400228: Armature|bow_arrow_test|Take 001|BaseLayer
+    7400230: Armature|bow_quiver_test|Take 001|BaseLayer
+    7400232: Armature|bow_test|Take 001|BaseLayer
+    7400234: Armature|chestcontrol|CINEMA_4D_Main|Layer0
+    7400236: Armature|chestcontrol|CINEMA_4D_Main|Layer0.001
+    7400238: Armature|hipcontrol|CINEMA_4D_Main|Layer0
+    7400240: Armature|hipcontrol|CINEMA_4D_Main|Layer0.001
+    7400242: Armature|IK Chain001|Take 001|BaseLayer
+    7400244: Armature|IK Chain002|Take 001|BaseLayer
+    7400246: Armature|IK Chain003|Take 001|BaseLayer
+    7400248: Armature|IK Chain004|Take 001|BaseLayer
+    7400250: Armature|IK Chain005|Take 001|BaseLayer
+    7400252: Armature|IK Chain006|Take 001|BaseLayer
+    7400254: Armature|L_arm_Goal|CINEMA_4D_Main|Layer0
+    7400256: Armature|L_arm_Goal|CINEMA_4D_Main|Layer0.001
+    7400258: Armature|oneHandedSword_test|Take 001|BaseLayer
+    7400260: Armature|Point007|Take 001|BaseLayer
+    7400262: Armature|Point008|Take 001|BaseLayer
+    7400264: Armature|Point009|Take 001|BaseLayer
+    7400266: Armature|Point010|Take 001|BaseLayer
+    7400268: Armature|Point011|Take 001|BaseLayer
+    7400270: Armature|Point012|Take 001|BaseLayer
+    7400272: Armature|R_arm_Goal|CINEMA_4D_Main|Layer0
+    7400274: Armature|R_arm_Goal|CINEMA_4D_Main|Layer0.001
+    7400276: Armature|shield_test|Take 001|BaseLayer
+    7400278: Armature|stick_test|Take 001|BaseLayer
+    7400280: Armature|twoHandedAxe_test|Take 001|BaseLayer
+    7400282: Armature|twoHandedStaff_test|Take 001|BaseLayer
+    9500000: //RootNode
+    10800000: Light
+    13700000: body
+    13700002: cloth
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
