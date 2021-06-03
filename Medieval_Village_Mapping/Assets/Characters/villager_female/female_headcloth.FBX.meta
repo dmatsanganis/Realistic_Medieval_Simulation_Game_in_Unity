@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: 5214a911898dddf4c9317cf808c7e099
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bandana
+    100002: body
+    100004: Fbx_Root
+    100006: //RootNode
+    100008: hair
+    100010: U3DMesh
+    100012: villager
+    100014: villager_Head
+    100016: villager_L_Calf
+    100018: villager_L_Clavicle
+    100020: villager_L_Finger0
+    100022: villager_L_Finger01
+    100024: villager_L_Finger1
+    100026: villager_L_Finger11
+    100028: villager_L_Finger2
+    100030: villager_L_Finger21
+    100032: villager_L_Finger3
+    100034: villager_L_Finger31
+    100036: villager_L_Finger4
+    100038: villager_L_Finger41
+    100040: villager_L_Foot
+    100042: villager_L_Forearm
+    100044: villager_L_Hand
+    100046: villager_L_Thigh
+    100048: villager_L_Toe0
+    100050: villager_L_UpperArm
+    100052: villager_Neck
+    100054: villager_Pelvis
+    100056: villager_R_Calf
+    100058: villager_R_Clavicle
+    100060: villager_R_Finger0
+    100062: villager_R_Finger01
+    100064: villager_R_Finger1
+    100066: villager_R_Finger11
+    100068: villager_R_Finger2
+    100070: villager_R_Finger21
+    100072: villager_R_Finger3
+    100074: villager_R_Finger31
+    100076: villager_R_Finger4
+    100078: villager_R_Finger41
+    100080: villager_R_Foot
+    100082: villager_R_Forearm
+    100084: villager_R_Hand
+    100086: villager_R_Thigh
+    100088: villager_R_Toe0
+    100090: villager_R_UpperArm
+    100092: villager_Spine
+    100094: villager_Spine1
+    400000: bandana
+    400002: body
+    400004: Fbx_Root
+    400006: //RootNode
+    400008: hair
+    400010: U3DMesh
+    400012: villager
+    400014: villager_Head
+    400016: villager_L_Calf
+    400018: villager_L_Clavicle
+    400020: villager_L_Finger0
+    400022: villager_L_Finger01
+    400024: villager_L_Finger1
+    400026: villager_L_Finger11
+    400028: villager_L_Finger2
+    400030: villager_L_Finger21
+    400032: villager_L_Finger3
+    400034: villager_L_Finger31
+    400036: villager_L_Finger4
+    400038: villager_L_Finger41
+    400040: villager_L_Foot
+    400042: villager_L_Forearm
+    400044: villager_L_Hand
+    400046: villager_L_Thigh
+    400048: villager_L_Toe0
+    400050: villager_L_UpperArm
+    400052: villager_Neck
+    400054: villager_Pelvis
+    400056: villager_R_Calf
+    400058: villager_R_Clavicle
+    400060: villager_R_Finger0
+    400062: villager_R_Finger01
+    400064: villager_R_Finger1
+    400066: villager_R_Finger11
+    400068: villager_R_Finger2
+    400070: villager_R_Finger21
+    400072: villager_R_Finger3
+    400074: villager_R_Finger31
+    400076: villager_R_Finger4
+    400078: villager_R_Finger41
+    400080: villager_R_Foot
+    400082: villager_R_Forearm
+    400084: villager_R_Hand
+    400086: villager_R_Thigh
+    400088: villager_R_Toe0
+    400090: villager_R_UpperArm
+    400092: villager_Spine
+    400094: villager_Spine1
+    4300000: U3DMesh
+    7400000: table_working
+    7400002: talk
+    7400004: table_working2
+    7400006: wave
+    7400008: walking
+    7400010: fighting
+    7400012: collapse
+    7400014: sitting2
+    7400016: eating
+    7400018: sitting
+    7400020: idle
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: U3DMesh
+    100100000: DataTemplate __Singleton__
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'talk' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'villager_Spine' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'villager_Neck' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'villager_L_Clavicle'
+      has translation animation that will be discarded.\n\t'villager_R_Clavicle' has
+      translation animation that will be discarded.\n\t'villager_L_Thigh' has translation
+      animation that will be discarded.\n\t'villager_R_Thigh' has translation animation
+      that will be discarded.\n\nClip 'wave' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'villager_Spine' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'villager_Neck' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'villager_L_Clavicle'
+      has translation animation that will be discarded.\n\t'villager_R_Clavicle' has
+      translation animation that will be discarded.\n\nClip 'walking' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation DOF
+      on avatar to improve retargeting quality.\n\t'villager_Spine' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'villager_Neck'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'villager_L_Clavicle'
+      has translation animation that will be discarded.\n\t'villager_R_Clavicle' has
+      translation animation that will be discarded.\n\t'villager_L_Thigh' has translation
+      animation that will be discarded.\n\t'villager_R_Thigh' has translation animation
+      that will be discarded.\n\nClip 'fighting' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'villager_Spine' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'villager_Neck' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'villager_L_Thigh'
+      has translation animation that will be discarded.\n\t'villager_R_Thigh' has
+      translation animation that will be discarded.\n\nClip 'collapse' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'villager_Pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'villager_Spine'
+      has translation animation that will be discarded.\n\t'villager_Spine' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'villager_Neck'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'villager_L_Clavicle'
+      has translation animation that will be discarded.\n\t'villager_R_Clavicle' has
+      translation animation that will be discarded.\n\t'villager_L_Thigh' has translation
+      animation that will be discarded.\n\t'villager_R_Thigh' has translation animation
+      that will be discarded.\n\nClip 'eating' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'villager_Spine' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'villager_Neck' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'villager_L_Clavicle'
+      has translation animation that will be discarded.\n\t'villager_R_Clavicle' has
+      translation animation that will be discarded.\n\t'villager_L_Thigh' has translation
+      animation that will be discarded.\n\t'villager_R_Thigh' has translation animation
+      that will be discarded.\n\nClip 'sitting' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'villager_Spine' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\nClip 'idle' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'villager_Spine' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'villager_Neck'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'villager_L_Clavicle'
+      has translation animation that will be discarded.\n\t'villager_R_Clavicle' has
+      translation animation that will be discarded.\n\t'villager_L_Thigh' has translation
+      animation that will be discarded.\n\t'villager_R_Thigh' has translation animation
+      that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: table_working
+      takeName: table_working
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: talk
+      takeName: talk
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: table_working2
+      takeName: table_working2
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: wave
+      takeName: wave
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: walking
+      takeName: walking
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: fighting
+      takeName: fighting
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: collapse
+      takeName: collapse
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: sitting2
+      takeName: sitting2
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: eating
+      takeName: eating
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: sitting
+      takeName: sitting
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle
+      takeName: idle
+      firstFrame: 0
+      lastFrame: 213
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.015
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.015
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: villager
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_L_Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_R_Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_L_Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_R_Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_L_Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_R_Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_Spine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_L_Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_R_Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_L_UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_R_UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_L_Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_R_Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_L_Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_R_Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_L_Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_L_Finger01
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_L_Finger1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_L_Finger11
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_L_Finger2
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_L_Finger21
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_L_Finger3
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_L_Finger31
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_L_Finger4
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_L_Finger41
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_R_Finger1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_R_Finger11
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_R_Finger0
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_R_Finger01
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_R_Finger2
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_R_Finger21
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_R_Finger3
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_R_Finger31
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_R_Finger4
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: villager_R_Finger41
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: female_headcloth(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: U3DMesh
+      parentName: female_headcloth(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Fbx_Root
+      parentName: female_headcloth(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair
+      parentName: Fbx_Root
+      position: {x: 0.1518888, y: 0.15565489, z: 0.32339588}
+      rotation: {x: 0.000000094156974, y: 0.7071068, z: 0.7071067, w: 0.00000009415695}
+      scale: {x: 52.983845, y: 52.983845, z: 52.983845}
+    - name: body
+      parentName: Fbx_Root
+      position: {x: -0.00018939971, y: -0.017497672, z: 0.8345261}
+      rotation: {x: 0.000000094156974, y: 0.7071068, z: 0.7071067, w: 0.00000009415695}
+      scale: {x: 64.79036, y: 64.79036, z: 64.79036}
+    - name: bandana
+      parentName: Fbx_Root
+      position: {x: -0.00000079751015, y: 0.16158888, z: 0.8148747}
+      rotation: {x: 0.000000094156974, y: 0.7071068, z: 0.7071067, w: 0.00000009415695}
+      scale: {x: 64.79036, y: 64.79036, z: 64.79036}
+    - name: villager
+      parentName: Fbx_Root
+      position: {x: 0.000000037252903, y: 0.013421893, z: 0.8894116}
+      rotation: {x: 0.013161808, y: -0.011572985, z: 0.75287724, w: 0.6579277}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: villager_Pelvis
+      parentName: villager
+      position: {x: 0.000000007152557, y: -4.4703483e-10, z: 0}
+      rotation: {x: -0.5284704, y: 0.5284712, z: 0.4698066, w: 0.46980742}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: villager_Spine
+      parentName: villager_Pelvis
+      position: {x: -0.09236492, y: -0.0001671445, z: -0.010893637}
+      rotation: {x: -0.0012777537, y: -0.03214629, z: 0.0282613, w: 0.99908274}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: villager_Spine1
+      parentName: villager_Spine
+      position: {x: -0.21025988, y: -0.00016391158, z: -0.00000038623986}
+      rotation: {x: 0.010039219, y: -0.08534224, z: 0.10225777, w: 0.9910395}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: villager_Neck
+      parentName: villager_Spine1
+      position: {x: -0.2103162, y: -0.00006348612, z: 0.0000000134309515}
+      rotation: {x: -0.00000026431562, y: 0.0000007387945, z: -0.16524467, w: 0.9862526}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: villager_Head
+      parentName: villager_Neck
+      position: {x: -0.08432121, y: -0.00000007152589, z: 0.000000014305114}
+      rotation: {x: -0.027219597, y: 0.09138884, z: -0.016276237, w: 0.9953101}
+      scale: {x: 1, y: 1, z: 1}
+    - name: villager_L_Clavicle
+      parentName: villager_Neck
+      position: {x: -0.00000011487117, y: 0.000066982306, z: 0.028308809}
+      rotation: {x: -0.66457033, y: -0.11162084, z: 0.728636, w: -0.12237889}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: villager_L_UpperArm
+      parentName: villager_L_Clavicle
+      position: {x: -0.09719681, y: 0.000000035762977, z: -0.00000022888133}
+      rotation: {x: 0.07881739, y: -0.008360083, z: -0.0015871075, w: 0.9968528}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: villager_L_Forearm
+      parentName: villager_L_UpperArm
+      position: {x: -0.28383487, y: -0.000000014305105, z: -1.2410117e-13}
+      rotation: {x: -0.000763662, y: 0.0055623488, z: 0.038834322, w: 0.99922997}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+    - name: villager_L_Hand
+      parentName: villager_L_Forearm
+      position: {x: -0.25357223, y: 0.000000064372685, z: 3.586924e-13}
+      rotation: {x: -0.71063226, y: -0.0021334803, z: 0.015246525, w: 0.70339525}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: villager_L_Finger0
+      parentName: villager_L_Hand
+      position: {x: -0.04552889, y: 0.018738927, z: -0.037974093}
+      rotation: {x: 0.6194779, y: -0.2926958, z: 0.2249616, w: 0.6927976}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: villager_L_Finger01
+      parentName: villager_L_Finger0
+      position: {x: -0.031104008, y: -9.451368e-16, z: 1.8543014e-16}
+      rotation: {x: 0.000000008755203, y: 0.0000000034308898, z: -0.20846331, w: 0.9780302}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: villager_L_Finger1
+      parentName: villager_L_Hand
+      position: {x: -0.08403, y: -0.000019969939, z: -0.025208995}
+      rotation: {x: -0.00039602706, y: -0.102329835, z: 0.000040028383, w: 0.99475044}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1}
+    - name: villager_L_Finger11
+      parentName: villager_L_Finger1
+      position: {x: -0.03146453, y: 0.00000008583069, z: 0.0000000071526185}
+      rotation: {x: -0.000000005482582, y: -0.000000011112832, z: -0.19618337, w: 0.9805672}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: villager_L_Finger2
+      parentName: villager_L_Hand
+      position: {x: -0.08403001, y: -0.000006694795, z: -0.008402996}
+      rotation: {x: -0.000397486, y: -0.056530893, z: 0.0000217818, w: 0.9984008}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+    - name: villager_L_Finger21
+      parentName: villager_L_Finger2
+      position: {x: -0.036553603, y: -2.4461696e-13, z: -0.0000000071524973}
+      rotation: {x: -0.0000000038173944, y: -0.0000000029400182, z: -0.2583677, w: 0.9660467}
+      scale: {x: 1, y: 1, z: 1}
+    - name: villager_L_Finger3
+      parentName: villager_L_Hand
+      position: {x: -0.08403013, y: 0.0000066947937, z: 0.008403003}
+      rotation: {x: 0.00201398, y: -0.035597365, z: -0.08103077, w: 0.9960737}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: villager_L_Finger31
+      parentName: villager_L_Finger3
+      position: {x: -0.036941364, y: -1.3679474e-13, z: 0.000000028610255}
+      rotation: {x: -0.000000012861288, y: 0.000000009174422, z: -0.24178925, w: 0.9703288}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: villager_L_Finger4
+      parentName: villager_L_Hand
+      position: {x: -0.084029995, y: 0.00002008438, z: 0.025209013}
+      rotation: {x: -0.003588674, y: -0.02287407, z: -0.07543012, w: 0.99688226}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: villager_L_Finger41
+      parentName: villager_L_Finger4
+      position: {x: -0.027457584, y: -0.00000012874561, z: -0.00000002503389}
+      rotation: {x: -0.0000000017941745, y: -0.000000017765682, z: -0.25413308, w: 0.9671693}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+    - name: villager_R_Clavicle
+      parentName: villager_Neck
+      position: {x: 5.186852e-10, y: 0.00006724264, z: -0.028308813}
+      rotation: {x: 0.6377299, y: 0.12333631, z: 0.75196165, w: -0.112438574}
+      scale: {x: 1, y: 1, z: 1}
+    - name: villager_R_UpperArm
+      parentName: villager_R_Clavicle
+      position: {x: -0.0971968, y: 0.000000021457721, z: -0.000000114440915}
+      rotation: {x: -0.14562806, y: -0.11806689, z: -0.0006468088, w: 0.982269}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: villager_R_Forearm
+      parentName: villager_R_UpperArm
+      position: {x: -0.28383476, y: 0.00000002861025, z: 0.000000028610229}
+      rotation: {x: 0.00094956136, y: -0.0066029415, z: 0.03733761, w: 0.99928045}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: villager_R_Hand
+      parentName: villager_R_Forearm
+      position: {x: -0.25357234, y: -0.00000005722021, z: 2.2882968e-13}
+      rotation: {x: 0.7094301, y: -0.034058213, z: -0.039559145, w: 0.70284003}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: villager_R_Finger0
+      parentName: villager_R_Hand
+      position: {x: -0.050833438, y: 0.013915815, z: 0.03831388}
+      rotation: {x: -0.5389125, y: 0.12028767, z: 0.009944375, w: 0.83366984}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.99999994}
+    - name: villager_R_Finger01
+      parentName: villager_R_Finger0
+      position: {x: -0.030663528, y: -0.000000028610224, z: -6.035891e-14}
+      rotation: {x: -0.000000019033301, y: -0.000000002729246, z: -0.20846325, w: 0.9780302}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: villager_R_Finger1
+      parentName: villager_R_Hand
+      position: {x: -0.08403001, y: -0.00002005577, z: 0.025208978}
+      rotation: {x: 0.0025993276, y: 0.36272126, z: 0.047844805, w: 0.93066514}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: villager_R_Finger11
+      parentName: villager_R_Finger1
+      position: {x: -0.030330848, y: -0.00000014305176, z: 0.000000016931535}
+      rotation: {x: -0.000000011096476, y: -0.000000013842454, z: -0.19618346, w: 0.9805672}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: villager_R_Finger2
+      parentName: villager_R_Hand
+      position: {x: -0.08403001, y: -0.0000066661833, z: 0.008402992}
+      rotation: {x: 0.0003978855, y: 0.035355788, z: 0.000013288728, w: 0.9993747}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.99999976}
+    - name: villager_R_Finger21
+      parentName: villager_R_Finger2
+      position: {x: -0.040498007, y: 0.000000057220465, z: -0.000000008940666}
+      rotation: {x: -0.000000011482207, y: -0.0000000051830455, z: -0.25836775, w: 0.9660467}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: villager_R_Finger3
+      parentName: villager_R_Hand
+      position: {x: -0.084029995, y: 0.0000067234037, z: -0.008402996}
+      rotation: {x: 0.0003980807, y: 0.017986855, z: 0.0000063687157, w: 0.9998382}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: villager_R_Finger31
+      parentName: villager_R_Finger3
+      position: {x: -0.032611225, y: 0.000000028610959, z: -1.4034257e-13}
+      rotation: {x: -0.0000000037275196, y: 0.0000000033276328, z: -0.24178931, w: 0.9703288}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: villager_R_Finger4
+      parentName: villager_R_Hand
+      position: {x: -0.08403001, y: 0.000020112991, z: -0.025209017}
+      rotation: {x: 0.0032100363, y: 0.021356642, z: -0.07523108, w: 0.9969322}
+      scale: {x: 0.99999994, y: 1, z: 0.9999999}
+    - name: villager_R_Finger41
+      parentName: villager_R_Finger4
+      position: {x: -0.025275763, y: 1.3704661e-13, z: -0.0000000035762813}
+      rotation: {x: -0.000000002062863, y: 0.00000000464425, z: -0.2541332, w: 0.9671693}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: villager_L_Thigh
+      parentName: villager_Spine
+      position: {x: 0.097924426, y: -0.005442375, z: 0.08564645}
+      rotation: {x: -0.06214685, y: 0.99682593, z: -0.0046141245, w: 0.04954446}
+      scale: {x: 1.0000002, y: 1, z: 1.0000004}
+    - name: villager_L_Calf
+      parentName: villager_L_Thigh
+      position: {x: -0.40441144, y: -0.0000000071525905, z: 0.000000007152526}
+      rotation: {x: 0.000000009485515, y: -9.270829e-10, z: 0.24744046, w: 0.9689031}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: villager_L_Foot
+      parentName: villager_L_Calf
+      position: {x: -0.4044113, y: -0.000000013355119, z: -0.000000014305086}
+      rotation: {x: -0.17031698, y: 0.049010962, z: -0.124756075, w: 0.97623044}
+      scale: {x: 0.9999999, y: 1, z: 0.9999999}
+    - name: villager_L_Toe0
+      parentName: villager_L_Foot
+      position: {x: -0.09301461, y: 0.1197058, z: -0.0000000071526185}
+      rotation: {x: 0.0032916344, y: -0.0031006534, z: -0.72790116, w: 0.68566716}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: villager_R_Thigh
+      parentName: villager_Spine
+      position: {x: 0.087545104, y: -0.004735646, z: -0.07578317}
+      rotation: {x: 0.036170818, y: 0.99750584, z: -0.0058805104, w: 0.060326558}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: villager_R_Calf
+      parentName: villager_R_Thigh
+      position: {x: -0.40441132, y: -0.0000000035762622, z: -0.000000021457685}
+      rotation: {x: -8.9106705e-10, y: -6.6230765e-10, z: 0.00077168125, w: 0.9999997}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999999}
+    - name: villager_R_Foot
+      parentName: villager_R_Calf
+      position: {x: -0.40441144, y: -4.470611e-10, z: 0.000000007152479}
+      rotation: {x: 0.057103373, y: 0.033389695, z: -0.0106507065, w: 0.9977529}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: villager_R_Toe0
+      parentName: villager_R_Foot
+      position: {x: -0.09301461, y: 0.11970582, z: 0.0000000035762169}
+      rotation: {x: -0.000000012614789, y: 0.0000000172795, z: -0.7071068, w: 0.7071068}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
