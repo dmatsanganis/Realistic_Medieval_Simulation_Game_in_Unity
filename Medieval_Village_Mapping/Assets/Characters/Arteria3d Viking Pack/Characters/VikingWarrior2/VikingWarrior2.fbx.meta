@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 4c4165d8cd2f15847a33b4c33fd44793
+timeCreated: 18446744011573954816
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Biped_Skeleton
+    100002: Biped_Skeleton_Chest
+    100004: Biped_Skeleton_Chest1
+    100006: Biped_Skeleton_ChestEffector
+    100008: Biped_Skeleton_eff
+    100010: Biped_Skeleton_eff1
+    100012: Biped_Skeleton_eff14
+    100014: Biped_Skeleton_eff15
+    100016: Biped_Skeleton_eff16
+    100018: Biped_Skeleton_eff17
+    100020: Biped_Skeleton_GlobalSRT
+    100022: Biped_Skeleton_LBicep
+    100024: Biped_Skeleton_LFootBone1
+    100026: Biped_Skeleton_LFootRoot
+    100028: Biped_Skeleton_LForearm
+    100030: Biped_Skeleton_LHand
+    100032: Biped_Skeleton_LHandRoot
+    100034: Biped_Skeleton_LRoot
+    100036: Biped_Skeleton_LRoot1
+    100038: Biped_Skeleton_LShin
+    100040: Biped_Skeleton_LShoulder
+    100042: Biped_Skeleton_LShoulderRoot
+    100044: Biped_Skeleton_LThigh
+    100046: Biped_Skeleton_RBicep
+    100048: Biped_Skeleton_RFootBone1
+    100050: Biped_Skeleton_RFootRoot
+    100052: Biped_Skeleton_RForearm
+    100054: Biped_Skeleton_RHand
+    100056: Biped_Skeleton_RHandRoot
+    100058: Biped_Skeleton_RRoot
+    100060: Biped_Skeleton_RRoot1
+    100062: Biped_Skeleton_RShin
+    100064: Biped_Skeleton_RShoulder
+    100066: Biped_Skeleton_RShoulderRoot
+    100068: Biped_Skeleton_RThigh
+    100070: Biped_Skeleton_Spine1
+    100072: Biped_Skeleton_Spine2
+    100074: Biped_Skeleton_Spine3
+    100076: Biped_Skeleton_Spine4
+    100078: Biped_Skeleton_Spine5
+    100080: Biped_Skeleton_Spine6
+    100082: Biped_Skeleton_SpineRoot
+    100084: Biped_Skeleton_SpineRoot1
+    100086: Biped_Skeleton_UpperBody
+    100088: helmet
+    100090: s
+    100092: Scene_Root
+    100094: untitled
+    100096: viking2
+    100098: //RootNode
+    400000: Biped_Skeleton
+    400002: Biped_Skeleton_Chest
+    400004: Biped_Skeleton_Chest1
+    400006: Biped_Skeleton_ChestEffector
+    400008: Biped_Skeleton_eff
+    400010: Biped_Skeleton_eff1
+    400012: Biped_Skeleton_eff14
+    400014: Biped_Skeleton_eff15
+    400016: Biped_Skeleton_eff16
+    400018: Biped_Skeleton_eff17
+    400020: Biped_Skeleton_GlobalSRT
+    400022: Biped_Skeleton_LBicep
+    400024: Biped_Skeleton_LFootBone1
+    400026: Biped_Skeleton_LFootRoot
+    400028: Biped_Skeleton_LForearm
+    400030: Biped_Skeleton_LHand
+    400032: Biped_Skeleton_LHandRoot
+    400034: Biped_Skeleton_LRoot
+    400036: Biped_Skeleton_LRoot1
+    400038: Biped_Skeleton_LShin
+    400040: Biped_Skeleton_LShoulder
+    400042: Biped_Skeleton_LShoulderRoot
+    400044: Biped_Skeleton_LThigh
+    400046: Biped_Skeleton_RBicep
+    400048: Biped_Skeleton_RFootBone1
+    400050: Biped_Skeleton_RFootRoot
+    400052: Biped_Skeleton_RForearm
+    400054: Biped_Skeleton_RHand
+    400056: Biped_Skeleton_RHandRoot
+    400058: Biped_Skeleton_RRoot
+    400060: Biped_Skeleton_RRoot1
+    400062: Biped_Skeleton_RShin
+    400064: Biped_Skeleton_RShoulder
+    400066: Biped_Skeleton_RShoulderRoot
+    400068: Biped_Skeleton_RThigh
+    400070: Biped_Skeleton_Spine1
+    400072: Biped_Skeleton_Spine2
+    400074: Biped_Skeleton_Spine3
+    400076: Biped_Skeleton_Spine4
+    400078: Biped_Skeleton_Spine5
+    400080: Biped_Skeleton_Spine6
+    400082: Biped_Skeleton_SpineRoot
+    400084: Biped_Skeleton_SpineRoot1
+    400086: Biped_Skeleton_UpperBody
+    400088: helmet
+    400090: s
+    400092: Scene_Root
+    400094: untitled
+    400096: viking2
+    400098: //RootNode
+    4300000: viking2
+    4300002: helmet
+    4300004: s
+    7400000: Idle
+    7400002: Walk
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: helmet
+    13700002: s
+    13700004: viking2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.12
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
