@@ -1,0 +1,12 @@
+{
+	"publisher_id": 0,
+	"publisher_package_id": 3769,
+	"title": "Beggars Model Pack",
+	"description": "This pack contains a medieval character picturing a poor guy. Animations are made to let him be a farmer, a tavern barkeeper, a smith, a beggar or a priest. There are 2 different heads and different tools like a hammer or a a brush. There is an optional cloak and he can have hairs or be bold to create even more variations.\n<br><br>\nAnimations are splitted. So it is possible to start each sequence separated like:<br>\nanimation.Play(\"Walk\");\n<br><br>\nA video can be seen here:\n<br><br>\n<a href=\"http://www.youtube.com/watch?v=WtQ2Yo-lDig\">http://www.youtube.com/watch?v=WtQ2Yo-lDig</a>",
+	"changes": "Initial release.",
+	"version_name": "1.0",
+	"category": 10,
+	"price": "45",
+	"recommended_features": [],
+	"required_features": []
+}
