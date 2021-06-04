@@ -1,0 +1,1492 @@
+fileFormatVersion: 2
+guid: 362b386abc76eb7479e0b103609a1972
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Body
+    100004: Body 1
+    100006: Eyes
+    100008: Head
+    100010: Model__Biped_Bip01
+    100012: Model__Biped_Bip01_Cheek_Left
+    100014: Model__Biped_Bip01_Cheek_Right
+    100016: Model__Biped_Bip01_Ear_Left
+    100018: Model__Biped_Bip01_Ear_Right
+    100020: Model__Biped_Bip01_Eye_Left
+    100022: Model__Biped_Bip01_Eye_Left_Cor
+    100024: Model__Biped_Bip01_Eye_Left_Cor0
+    100026: Model__Biped_Bip01_Eye_Lower_Le
+    100028: Model__Biped_Bip01_Eye_Lower_Ri
+    100030: Model__Biped_Bip01_Eye_Right
+    100032: Model__Biped_Bip01_Eye_Right_Co
+    100034: Model__Biped_Bip01_Eye_Right_Co1
+    100036: Model__Biped_Bip01_Eyebrow_Left
+    100038: Model__Biped_Bip01_Eyebrow_Righ
+    100040: Model__Biped_Bip01_Eyebrow_Side
+    100042: Model__Biped_Bip01_Eyebrow_Side2
+    100044: Model__Biped_Bip01_Eyelid_Left
+    100046: Model__Biped_Bip01_Eyelid_Right
+    100048: Model__Biped_Bip01_face_base
+    100050: Model__Biped_Bip01_Face_chin
+    100052: Model__Biped_Bip01_Face_Left_Si
+    100054: Model__Biped_Bip01_Face_Right_S
+    100056: Model__Biped_Bip01_Forehead_Fac
+    100058: Model__Biped_Bip01_Head1
+    100060: Model__Biped_Bip01_Headbase
+    100062: Model__Biped_Bip01_Jaw_Bone
+    100064: Model__Biped_Bip01_Jaw_Left
+    100066: Model__Biped_Bip01_Jaw_Right
+    100068: Model__Biped_Bip01_L_Calf
+    100070: Model__Biped_Bip01_L_Clavicle
+    100072: Model__Biped_Bip01_L_Finger0
+    100074: Model__Biped_Bip01_L_Finger01
+    100076: Model__Biped_Bip01_L_Finger02
+    100078: Model__Biped_Bip01_L_Finger1
+    100080: Model__Biped_Bip01_L_Finger11
+    100082: Model__Biped_Bip01_L_Finger12
+    100084: Model__Biped_Bip01_L_Finger2
+    100086: Model__Biped_Bip01_L_Finger21
+    100088: Model__Biped_Bip01_L_Finger22
+    100090: Model__Biped_Bip01_L_Finger3
+    100092: Model__Biped_Bip01_L_Finger31
+    100094: Model__Biped_Bip01_L_Finger32
+    100096: Model__Biped_Bip01_L_Finger4
+    100098: Model__Biped_Bip01_L_Finger41
+    100100: Model__Biped_Bip01_L_Finger42
+    100102: Model__Biped_Bip01_L_Foot
+    100104: Model__Biped_Bip01_L_Forearm
+    100106: Model__Biped_Bip01_L_Hand
+    100108: Model__Biped_Bip01_L_Thigh
+    100110: Model__Biped_Bip01_L_Toe0
+    100112: Model__Biped_Bip01_L_UpperArm
+    100114: Model__Biped_Bip01_Left_Mouth
+    100116: Model__Biped_Bip01_Lower_Lip_Le
+    100118: Model__Biped_Bip01_Lower_Lip_Mi
+    100120: Model__Biped_Bip01_Lower_Lip_Ri
+    100122: Model__Biped_Bip01_Neck1
+    100124: Model__Biped_Bip01_Nose_Tip
+    100126: Model__Biped_Bip01_Nose_Wing_Le
+    100128: Model__Biped_Bip01_Nose_Wing_Ri
+    100130: Model__Biped_Bip01_P_Left
+    100132: Model__Biped_Bip01_P_Middle
+    100134: Model__Biped_Bip01_P_Right
+    100136: Model__Biped_Bip01_Pelvis
+    100138: Model__Biped_Bip01_R_Calf
+    100140: Model__Biped_Bip01_R_Clavicle
+    100142: Model__Biped_Bip01_R_Finger0
+    100144: Model__Biped_Bip01_R_Finger01
+    100146: Model__Biped_Bip01_R_Finger02
+    100148: Model__Biped_Bip01_R_Finger1
+    100150: Model__Biped_Bip01_R_Finger11
+    100152: Model__Biped_Bip01_R_Finger12
+    100154: Model__Biped_Bip01_R_Finger2
+    100156: Model__Biped_Bip01_R_Finger21
+    100158: Model__Biped_Bip01_R_Finger22
+    100160: Model__Biped_Bip01_R_Finger3
+    100162: Model__Biped_Bip01_R_Finger31
+    100164: Model__Biped_Bip01_R_Finger32
+    100166: Model__Biped_Bip01_R_Finger4
+    100168: Model__Biped_Bip01_R_Finger41
+    100170: Model__Biped_Bip01_R_Finger42
+    100172: Model__Biped_Bip01_R_Foot
+    100174: Model__Biped_Bip01_R_Forearm
+    100176: Model__Biped_Bip01_R_Hand
+    100178: Model__Biped_Bip01_R_Thigh
+    100180: Model__Biped_Bip01_R_Toe0
+    100182: Model__Biped_Bip01_R_UpperArm
+    100184: Model__Biped_Bip01_Right_Mouth
+    100186: Model__Biped_Bip01_Spine
+    100188: Model__Biped_Bip01_Spine1
+    100190: Model__Biped_Bip01_Spine2
+    100192: Model__Biped_Bip01_Spine4
+    100194: Model__Biped_Bip01_Upper_Lip_Le
+    100196: Model__Biped_Bip01_Upper_Lip_Mi
+    100198: Model__Biped_Bip01_Upper_Lip_Ri
+    100200: Model__Biped_Biped
+    100202: Model__Biped_Biped_Cloth
+    100204: Model__Biped_Biped_Cloth_Left
+    100206: Model__Biped_Biped_Cloth_Left_E
+    100208: Model__Biped_Biped_Cloth_Middle
+    100210: Model__Biped_Biped_Cloth_Right
+    100212: Model__Biped_Biped_Cloth_Right_
+    100214: Model__Biped_Biped_Skirt
+    100216: Model__Biped_Biped_Skirt_Left
+    100218: Model__Biped_Biped_Skirt_Left_E
+    100220: Model__Biped_Biped_Skirt_Left_M
+    100222: Model__Biped_Biped_Skirt_Middle
+    100224: Model__Biped_Biped_Skirt_Right
+    100226: Model__Biped_Biped_Skirt_Right_
+    100228: Model__Biped_Biped_Skirt_Right_3
+    100230: Model__Biped_LIndexeffector
+    100232: Model__Biped_LMiddleeffector
+    100234: Model__Biped_LPinkyeffector
+    100236: Model__Biped_LRingeffector
+    100238: Model__Biped_LThumbeffector
+    100240: Model__Biped_LToeeff
+    100242: Model__Biped_RIndexeffector
+    100244: Model__Biped_RMiddleeffector
+    100246: Model__Biped_RPinkyeffector
+    100248: Model__Biped_RRingeffector
+    100250: Model__Biped_RThumbeffector
+    100252: Model__Biped_RToeeff
+    400000: //RootNode
+    400002: Body
+    400004: Body 1
+    400006: Eyes
+    400008: Head
+    400010: Model__Biped_Bip01
+    400012: Model__Biped_Bip01_Cheek_Left
+    400014: Model__Biped_Bip01_Cheek_Right
+    400016: Model__Biped_Bip01_Ear_Left
+    400018: Model__Biped_Bip01_Ear_Right
+    400020: Model__Biped_Bip01_Eye_Left
+    400022: Model__Biped_Bip01_Eye_Left_Cor
+    400024: Model__Biped_Bip01_Eye_Left_Cor0
+    400026: Model__Biped_Bip01_Eye_Lower_Le
+    400028: Model__Biped_Bip01_Eye_Lower_Ri
+    400030: Model__Biped_Bip01_Eye_Right
+    400032: Model__Biped_Bip01_Eye_Right_Co
+    400034: Model__Biped_Bip01_Eye_Right_Co1
+    400036: Model__Biped_Bip01_Eyebrow_Left
+    400038: Model__Biped_Bip01_Eyebrow_Righ
+    400040: Model__Biped_Bip01_Eyebrow_Side
+    400042: Model__Biped_Bip01_Eyebrow_Side2
+    400044: Model__Biped_Bip01_Eyelid_Left
+    400046: Model__Biped_Bip01_Eyelid_Right
+    400048: Model__Biped_Bip01_face_base
+    400050: Model__Biped_Bip01_Face_chin
+    400052: Model__Biped_Bip01_Face_Left_Si
+    400054: Model__Biped_Bip01_Face_Right_S
+    400056: Model__Biped_Bip01_Forehead_Fac
+    400058: Model__Biped_Bip01_Head1
+    400060: Model__Biped_Bip01_Headbase
+    400062: Model__Biped_Bip01_Jaw_Bone
+    400064: Model__Biped_Bip01_Jaw_Left
+    400066: Model__Biped_Bip01_Jaw_Right
+    400068: Model__Biped_Bip01_L_Calf
+    400070: Model__Biped_Bip01_L_Clavicle
+    400072: Model__Biped_Bip01_L_Finger0
+    400074: Model__Biped_Bip01_L_Finger01
+    400076: Model__Biped_Bip01_L_Finger02
+    400078: Model__Biped_Bip01_L_Finger1
+    400080: Model__Biped_Bip01_L_Finger11
+    400082: Model__Biped_Bip01_L_Finger12
+    400084: Model__Biped_Bip01_L_Finger2
+    400086: Model__Biped_Bip01_L_Finger21
+    400088: Model__Biped_Bip01_L_Finger22
+    400090: Model__Biped_Bip01_L_Finger3
+    400092: Model__Biped_Bip01_L_Finger31
+    400094: Model__Biped_Bip01_L_Finger32
+    400096: Model__Biped_Bip01_L_Finger4
+    400098: Model__Biped_Bip01_L_Finger41
+    400100: Model__Biped_Bip01_L_Finger42
+    400102: Model__Biped_Bip01_L_Foot
+    400104: Model__Biped_Bip01_L_Forearm
+    400106: Model__Biped_Bip01_L_Hand
+    400108: Model__Biped_Bip01_L_Thigh
+    400110: Model__Biped_Bip01_L_Toe0
+    400112: Model__Biped_Bip01_L_UpperArm
+    400114: Model__Biped_Bip01_Left_Mouth
+    400116: Model__Biped_Bip01_Lower_Lip_Le
+    400118: Model__Biped_Bip01_Lower_Lip_Mi
+    400120: Model__Biped_Bip01_Lower_Lip_Ri
+    400122: Model__Biped_Bip01_Neck1
+    400124: Model__Biped_Bip01_Nose_Tip
+    400126: Model__Biped_Bip01_Nose_Wing_Le
+    400128: Model__Biped_Bip01_Nose_Wing_Ri
+    400130: Model__Biped_Bip01_P_Left
+    400132: Model__Biped_Bip01_P_Middle
+    400134: Model__Biped_Bip01_P_Right
+    400136: Model__Biped_Bip01_Pelvis
+    400138: Model__Biped_Bip01_R_Calf
+    400140: Model__Biped_Bip01_R_Clavicle
+    400142: Model__Biped_Bip01_R_Finger0
+    400144: Model__Biped_Bip01_R_Finger01
+    400146: Model__Biped_Bip01_R_Finger02
+    400148: Model__Biped_Bip01_R_Finger1
+    400150: Model__Biped_Bip01_R_Finger11
+    400152: Model__Biped_Bip01_R_Finger12
+    400154: Model__Biped_Bip01_R_Finger2
+    400156: Model__Biped_Bip01_R_Finger21
+    400158: Model__Biped_Bip01_R_Finger22
+    400160: Model__Biped_Bip01_R_Finger3
+    400162: Model__Biped_Bip01_R_Finger31
+    400164: Model__Biped_Bip01_R_Finger32
+    400166: Model__Biped_Bip01_R_Finger4
+    400168: Model__Biped_Bip01_R_Finger41
+    400170: Model__Biped_Bip01_R_Finger42
+    400172: Model__Biped_Bip01_R_Foot
+    400174: Model__Biped_Bip01_R_Forearm
+    400176: Model__Biped_Bip01_R_Hand
+    400178: Model__Biped_Bip01_R_Thigh
+    400180: Model__Biped_Bip01_R_Toe0
+    400182: Model__Biped_Bip01_R_UpperArm
+    400184: Model__Biped_Bip01_Right_Mouth
+    400186: Model__Biped_Bip01_Spine
+    400188: Model__Biped_Bip01_Spine1
+    400190: Model__Biped_Bip01_Spine2
+    400192: Model__Biped_Bip01_Spine4
+    400194: Model__Biped_Bip01_Upper_Lip_Le
+    400196: Model__Biped_Bip01_Upper_Lip_Mi
+    400198: Model__Biped_Bip01_Upper_Lip_Ri
+    400200: Model__Biped_Biped
+    400202: Model__Biped_Biped_Cloth
+    400204: Model__Biped_Biped_Cloth_Left
+    400206: Model__Biped_Biped_Cloth_Left_E
+    400208: Model__Biped_Biped_Cloth_Middle
+    400210: Model__Biped_Biped_Cloth_Right
+    400212: Model__Biped_Biped_Cloth_Right_
+    400214: Model__Biped_Biped_Skirt
+    400216: Model__Biped_Biped_Skirt_Left
+    400218: Model__Biped_Biped_Skirt_Left_E
+    400220: Model__Biped_Biped_Skirt_Left_M
+    400222: Model__Biped_Biped_Skirt_Middle
+    400224: Model__Biped_Biped_Skirt_Right
+    400226: Model__Biped_Biped_Skirt_Right_
+    400228: Model__Biped_Biped_Skirt_Right_3
+    400230: Model__Biped_LIndexeffector
+    400232: Model__Biped_LMiddleeffector
+    400234: Model__Biped_LPinkyeffector
+    400236: Model__Biped_LRingeffector
+    400238: Model__Biped_LThumbeffector
+    400240: Model__Biped_LToeeff
+    400242: Model__Biped_RIndexeffector
+    400244: Model__Biped_RMiddleeffector
+    400246: Model__Biped_RPinkyeffector
+    400248: Model__Biped_RRingeffector
+    400250: Model__Biped_RThumbeffector
+    400252: Model__Biped_RToeeff
+    4300000: U3DMesh
+    4300002: Head
+    4300004: Body
+    4300006: Eyes
+    7400000: Default0
+    7400002: Idle
+    7400004: Stand
+    7400006: Beggin
+    7400008: PriestWalk
+    7400010: Walk
+    7400012: Run
+    7400014: Brush
+    7400016: Hammer
+    7400018: HoldingSword
+    7400020: StrafeLeft
+    7400022: Crouch
+    7400024: Sleep
+    7400026: Speak
+    7400028: Death
+    7400030: Punch_Right
+    7400032: Punch_Left
+    7400034: Salesman
+    7400036: Getup
+    7400038: Getup_Hands
+    7400040: Sit
+    7400042: Sit_Hands
+    7400044: Sitdown
+    7400046: Sitdown_Hands
+    7400048: HoldItem
+    7400050: Hack
+    7400052: ProtectHead
+    7400054: Hit_One
+    7400056: Hit_Two
+    7400058: JumpFull
+    7400060: JumpFall
+    7400062: Jump
+    7400064: StrafeRight
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Body 1
+    13700002: Eyes
+    13700004: Head
+    100100000: DataTemplate __Singleton__
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: "Avatar Rig Configuration mis-match. Inbetween bone rotation
+      in configuration does not match rotation in animation file:\n\t'Model__Biped_Bip01_Spine4'
+      : rotation error = 3.354201 deg\n"
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Hammer' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'Model__Biped_Bip01_Spine4' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\nClip 'Crouch' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'Model__Biped_Bip01_Spine4'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Sleep' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Model__Biped_Bip01_Spine4'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Speak' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Model__Biped_Bip01_Spine4'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Death' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Model__Biped_Bip01_Spine4'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Punch_Right' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Model__Biped_Bip01_Spine4'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Model__Biped_Bip01_face_base'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Model__Biped_Bip01_Headbase'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Punch_Left' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Model__Biped_Bip01_Spine4'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Hit_Two' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Model__Biped_Bip01_Spine4'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.035
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.035
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Model__Biped_Bip01
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_L_Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_R_Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_L_Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_R_Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_L_Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_R_Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_Neck1
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_Head1
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_L_Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_R_Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_L_UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_R_UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_L_Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_R_Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_L_Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_R_Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_L_Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_R_Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_Eye_Left_Cor0
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_Eye_Right_Co1
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_Jaw_Bone
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_L_Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_L_Finger01
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_L_Finger02
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_L_Finger1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_L_Finger11
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_L_Finger12
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_L_Finger2
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_L_Finger21
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_L_Finger22
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_L_Finger3
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_L_Finger31
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_L_Finger32
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_L_Finger4
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_L_Finger41
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_L_Finger42
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_R_Finger0
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_R_Finger01
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_R_Finger02
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_R_Finger4
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_R_Finger41
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_R_Finger42
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_R_Finger3
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_R_Finger31
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_R_Finger32
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_R_Finger2
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_R_Finger21
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_R_Finger22
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_R_Finger1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_R_Finger11
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_R_Finger12
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Model__Biped_Bip01_Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: beggar_without_all_extras(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Biped
+      parentName: beggar_without_all_extras(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01
+      parentName: Model__Biped_Biped
+      position: {x: 0.0036067502, y: 1.3337079, z: 0.01867635}
+      rotation: {x: -3.1061808e-24, y: 5.582836e-13, z: -6.185529e-12, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_Pelvis
+      parentName: Model__Biped_Bip01
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_L_Thigh
+      parentName: Model__Biped_Bip01_Pelvis
+      position: {x: -0.13616565, y: 0, z: 0}
+      rotation: {x: -0.50484043, y: -0.49511242, z: 0.4685026, w: 0.5296274}
+      scale: {x: 1.0000001, y: 1, z: 1.0000007}
+    - name: Model__Biped_Bip01_L_Calf
+      parentName: Model__Biped_Bip01_L_Thigh
+      position: {x: -0.6263804, y: 0, z: 0}
+      rotation: {x: -0.000000029802326, y: -0, z: -0.017346593, w: 0.99984956}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000007}
+    - name: Model__Biped_Bip01_L_Foot
+      parentName: Model__Biped_Bip01_L_Calf
+      position: {x: -0.579694, y: -4.9212807e-14, z: 1.0459998e-15}
+      rotation: {x: 0.092718564, y: 0.0002838946, z: -0.43160495, w: -0.89728504}
+      scale: {x: 1.0000002, y: 0.99999994, z: 0.9999994}
+    - name: Model__Biped_Bip01_L_Toe0
+      parentName: Model__Biped_Bip01_L_Foot
+      position: {x: -0.19409758, y: 0, z: 0}
+      rotation: {x: 0.031771734, y: 0.07513332, z: 0.36347494, w: 0.9280256}
+      scale: {x: 1.0000005, y: 1.000001, z: 1.0000005}
+    - name: Model__Biped_LToeeff
+      parentName: Model__Biped_Bip01_L_Toe0
+      position: {x: -0.13724889, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_R_Thigh
+      parentName: Model__Biped_Bip01_Pelvis
+      position: {x: 0.13616565, y: 0, z: 0}
+      rotation: {x: 0.47101027, y: 0.5273987, z: -0.50248766, w: -0.49749985}
+      scale: {x: 0.99999964, y: 1.0000005, z: 1.0000005}
+    - name: Model__Biped_Bip01_R_Calf
+      parentName: Model__Biped_Bip01_R_Thigh
+      position: {x: -0.6257323, y: 0, z: 0}
+      rotation: {x: -0.000000029802322, y: -0.000000059604645, z: 0.017387629, w: -0.99984884}
+      scale: {x: 0.99999934, y: 0.9999997, z: 1.0000002}
+    - name: Model__Biped_Bip01_R_Foot
+      parentName: Model__Biped_Bip01_R_Calf
+      position: {x: -0.57958883, y: -0.000000035000024, z: -8.1509625e-15}
+      rotation: {x: 0.1452289, y: -0.021906313, z: 0.43331832, w: 0.8891929}
+      scale: {x: 1.0000008, y: 1.0000019, z: 0.9999996}
+    - name: Model__Biped_Bip01_R_Toe0
+      parentName: Model__Biped_Bip01_R_Foot
+      position: {x: -0.196621, y: 9.155762e-15, z: 2.6790693e-15}
+      rotation: {x: -0.029952217, y: 0.004500233, z: 0.36258748, w: 0.9314574}
+      scale: {x: 0.99999964, y: 1.000001, z: 1.0000002}
+    - name: Model__Biped_RToeeff
+      parentName: Model__Biped_Bip01_R_Toe0
+      position: {x: -0.14028354, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_Spine
+      parentName: Model__Biped_Bip01
+      position: {x: -1.1479937e-15, y: 0.11707962, z: -0.10436643}
+      rotation: {x: -0.5028352, y: 0.49714857, z: 0.5028352, w: -0.49714863}
+      scale: {x: 0.99999964, y: 0.9999994, z: 1.0000001}
+    - name: Model__Biped_Biped_Skirt
+      parentName: Model__Biped_Bip01_Spine
+      position: {x: -0.057652317, y: 0.33115554, z: 0}
+      rotation: {x: 0.5432823, y: -0.45272005, z: -0.54127836, w: -0.45487}
+      scale: {x: 1, y: 0.99999964, z: 0.99999964}
+    - name: Model__Biped_Biped_Skirt_Middle
+      parentName: Model__Biped_Biped_Skirt
+      position: {x: -0, y: -0.35595542, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Biped_Skirt_Left
+      parentName: Model__Biped_Biped_Skirt_Middle
+      position: {x: -0.18946531, y: -0.023389868, z: -0.052710418}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Biped_Skirt_Left_M
+      parentName: Model__Biped_Biped_Skirt_Left
+      position: {x: -0.051744174, y: -0.32256073, z: -0.05006533}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Biped_Skirt_Left_E
+      parentName: Model__Biped_Biped_Skirt_Left_M
+      position: {x: -0, y: -0.13408832, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Biped_Skirt_Right
+      parentName: Model__Biped_Biped_Skirt_Middle
+      position: {x: 0.21077162, y: -0.017332805, z: -0.05513095}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Biped_Skirt_Right_3
+      parentName: Model__Biped_Biped_Skirt_Right
+      position: {x: 0.04576131, y: -0.3219328, z: -0.004983755}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Biped_Skirt_Right_
+      parentName: Model__Biped_Biped_Skirt_Right_3
+      position: {x: -0, y: -0.13190502, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_Spine1
+      parentName: Model__Biped_Bip01_Spine
+      position: {x: -0.13937956, y: 0, z: 0}
+      rotation: {x: -0, y: -0, z: -0.10202084, w: -0.99478227}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1.0000002}
+    - name: Model__Biped_Bip01_Spine2
+      parentName: Model__Biped_Bip01_Spine1
+      position: {x: -0.16195312, y: -9.960165e-16, z: 0}
+      rotation: {x: -0, y: -0, z: -0.048025895, w: 0.9988462}
+      scale: {x: 1.000001, y: 1.0000008, z: 1.0000007}
+    - name: Model__Biped_Bip01_Spine4
+      parentName: Model__Biped_Bip01_Spine2
+      position: {x: -0.27701133, y: 5.7188315e-15, z: 0}
+      rotation: {x: -0.00000004625109, y: -0.000000027338931, z: 0.2215518, w: -0.9751487}
+      scale: {x: 1.0000005, y: 1.000001, z: 1.0000001}
+    - name: Model__Biped_Biped_Cloth
+      parentName: Model__Biped_Bip01_Spine4
+      position: {x: -0.019700555, y: 0.031632964, z: 0}
+      rotation: {x: 0.5793922, y: -0.40534514, z: -0.5793922, w: -0.40534514}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    - name: Model__Biped_Biped_Cloth_Middle
+      parentName: Model__Biped_Biped_Cloth
+      position: {x: -0, y: -0.49395716, z: -0.1930213}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Biped_Cloth_Right
+      parentName: Model__Biped_Biped_Cloth_Middle
+      position: {x: 0.26720825, y: -0.54804844, z: -0.01977206}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Biped_Cloth_Right_
+      parentName: Model__Biped_Biped_Cloth_Right
+      position: {x: -0, y: -0.50201124, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Biped_Cloth_Left
+      parentName: Model__Biped_Biped_Cloth_Middle
+      position: {x: -0.2573453, y: -0.54485595, z: -0.02353834}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Biped_Cloth_Left_E
+      parentName: Model__Biped_Biped_Cloth_Left
+      position: {x: -0, y: -0.50201124, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_Neck1
+      parentName: Model__Biped_Bip01_Spine4
+      position: {x: -0.16250399, y: 0, z: 0}
+      rotation: {x: 0.9975567, y: -0.069862776, z: -0.00000012797615, w: 0.0000010022621}
+      scale: {x: 1.0000013, y: 1.0000007, z: 1.0000005}
+    - name: Model__Biped_Bip01_Head1
+      parentName: Model__Biped_Bip01_Neck1
+      position: {x: -0.09823009, y: -2.6045965e-14, z: 1.9012395e-14}
+      rotation: {x: -0.00000001628575, y: 0.0000005206537, z: -0.24977371, w: 0.9683043}
+      scale: {x: 1.0000023, y: 1.0000017, z: 1.0000025}
+    - name: Model__Biped_Bip01_face_base
+      parentName: Model__Biped_Bip01_Head1
+      position: {x: -0.07602959, y: -0.050008174, z: -0.000000105000005}
+      rotation: {x: 0.4549944, y: -0.5412762, z: 0.45499375, w: 0.541277}
+      scale: {x: 0.99999994, y: 1.0000005, z: 1.0000005}
+    - name: Model__Biped_Bip01_Cheek_Left
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: -0.0572257, y: 0.00604583, z: 0.06445334}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_Eye_Left_Cor
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: -0.026976425, y: 0.04686122, z: 0.060514998}
+      rotation: {x: 0.000044, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_Eye_Lower_Ri
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: 0.045365565, y: 0.04023572, z: 0.059599504}
+      rotation: {x: 0.000044, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_Eyebrow_Left
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: -0.04793271, y: 0.07126728, z: 0.077062085}
+      rotation: {x: 0.000044, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_Eyebrow_Righ
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: 0.048658643, y: 0.07126728, z: 0.077062085}
+      rotation: {x: 0.000044, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_Face_Left_Si
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: -0.096126206, y: 0.045014307, z: 0.00640017}
+      rotation: {x: 0.000044, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_Face_Right_S
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: 0.097335316, y: 0.045014307, z: 0.00640017}
+      rotation: {x: 0.000044, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_Forehead_Fac
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: 0.0047264, y: 0.1075396, z: 0.084760934}
+      rotation: {x: 0.000044, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_Left_Mouth
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: -0.03625608, y: -0.04768761, z: 0.07990115}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_Nose_Tip
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: -0, y: -0.000009625, z: 0.11172095}
+      rotation: {x: 0.000044, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_Nose_Wing_Le
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: -0.02102303, y: -0.00672686, z: 0.085699044}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_Nose_Wing_Ri
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: 0.02307326, y: -0.00672686, z: 0.085699044}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_P_Left
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: -0.02339785, y: 0.06992972, z: 0.086276576}
+      rotation: {x: 0.000044, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_P_Middle
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: 0.0013963949, y: 0.065823734, z: 0.08578577}
+      rotation: {x: 0.000044, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_P_Right
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: 0.025603443, y: 0.06992972, z: 0.086276576}
+      rotation: {x: 0.000044, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_Upper_Lip_Le
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: -0.02062137, y: -0.035696536, z: 0.094298325}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_Upper_Lip_Mi
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: -0, y: -0.035696536, z: 0.099185206}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_Upper_Lip_Ri
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: 0.01908298, y: -0.035696536, z: 0.094298325}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_Cheek_Right
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: 0.0586726, y: 0.00604583, z: 0.06445334}
+      rotation: {x: 0.005165264, y: -0.00000008940697, z: -0.00000017881393, w: 0.99998665}
+      scale: {x: 1.0000002, y: 0.99999994, z: 0.9999999}
+    - name: Model__Biped_Bip01_Ear_Right
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: 0.10704001, y: 0.02467402, z: -0.06624233}
+      rotation: {x: 0.005165264, y: -0.00000008940697, z: -0.00000017881393, w: 0.99998665}
+      scale: {x: 1.0000002, y: 0.99999994, z: 0.9999999}
+    - name: Model__Biped_Bip01_Eye_Lower_Le
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: -0.046919987, y: 0.040240794, z: 0.05959597}
+      rotation: {x: 0.005165264, y: -0.00000008940697, z: -0.00000017881393, w: 0.99998665}
+      scale: {x: 1.0000002, y: 0.99999994, z: 0.9999999}
+    - name: Model__Biped_Bip01_Eyebrow_Side2
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: -0.070409015, y: 0.05945093, z: 0.06129928}
+      rotation: {x: 0.005165264, y: -0.00000008940697, z: -0.00000017881393, w: 0.99998665}
+      scale: {x: 1.0000002, y: 0.99999994, z: 0.9999999}
+    - name: Model__Biped_Bip01_Eyebrow_Side
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: 0.070271604, y: 0.05945093, z: 0.06129928}
+      rotation: {x: 0.005165264, y: -0.00000008940697, z: -0.00000017881393, w: 0.99998665}
+      scale: {x: 1.0000002, y: 0.99999994, z: 0.9999999}
+    - name: Model__Biped_Bip01_Jaw_Left
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: -0.07213076, y: -0.0378441, z: 0.04423286}
+      rotation: {x: 0.005165264, y: -0.00000008940697, z: -0.00000017881393, w: 0.99998665}
+      scale: {x: 1.0000002, y: 0.99999994, z: 0.9999999}
+    - name: Model__Biped_Bip01_Jaw_Right
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: 0.074132316, y: -0.0378441, z: 0.04423286}
+      rotation: {x: 0.005165264, y: -0.00000008940697, z: -0.00000017881393, w: 0.99998665}
+      scale: {x: 1.0000002, y: 0.99999994, z: 0.9999999}
+    - name: Model__Biped_Bip01_Right_Mouth
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: 0.03660923, y: -0.04768761, z: 0.07990115}
+      rotation: {x: 0.005165264, y: -0.00000008940697, z: -0.00000017881393, w: 0.99998665}
+      scale: {x: 1.0000002, y: 0.99999994, z: 0.9999999}
+    - name: Model__Biped_Bip01_Ear_Left
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: -0.10440318, y: 0.02467402, z: -0.06624233}
+      rotation: {x: 0.0051653516, y: -0.00000011920925, z: -0.00000019371502, w: 0.99998665}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000001}
+    - name: Model__Biped_Bip01_Eye_Left
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: -0.046585526, y: 0.050297417, z: 0.055660393}
+      rotation: {x: 0.0051652174, y: -0.000000059604623, z: -0.0000002384185, w: 0.99998665}
+      scale: {x: 1, y: 1.0000001, z: 0.99999976}
+    - name: Model__Biped_Bip01_Eye_Left_Cor0
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: -0.06981933, y: 0.045014866, z: 0.051275034}
+      rotation: {x: 0.0051652174, y: -0.000000059604623, z: -0.0000002384185, w: 0.99998665}
+      scale: {x: 1.0000002, y: 0.99999994, z: 0.99999964}
+    - name: Model__Biped_Bip01_Eye_Right
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: 0.045365565, y: 0.050297417, z: 0.055660393}
+      rotation: {x: 0.0051652174, y: -0.000000059604623, z: -0.0000002384185, w: 0.99998665}
+      scale: {x: 1, y: 1.0000001, z: 0.99999976}
+    - name: Model__Biped_Bip01_Eye_Right_Co1
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: 0.06809306, y: 0.045014866, z: 0.051275034}
+      rotation: {x: 0.0051652174, y: -0.000000059604623, z: -0.0000002384185, w: 0.99998665}
+      scale: {x: 1.0000002, y: 0.99999994, z: 0.99999964}
+    - name: Model__Biped_Bip01_Eye_Right_Co
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: 0.026761629, y: 0.04686654, z: 0.060510907}
+      rotation: {x: 0.0051652174, y: -0.000000059604623, z: -0.0000002384185, w: 0.99998665}
+      scale: {x: 1.0000002, y: 0.99999994, z: 0.99999964}
+    - name: Model__Biped_Bip01_Eyelid_Left
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: -0.046919987, y: 0.06038844, z: 0.05959597}
+      rotation: {x: 0.0051652174, y: -0.000000059604623, z: -0.0000002384185, w: 0.99998665}
+      scale: {x: 1.0000002, y: 0.99999994, z: 0.99999964}
+    - name: Model__Biped_Bip01_Eyelid_Right
+      parentName: Model__Biped_Bip01_face_base
+      position: {x: 0.045365565, y: 0.06038844, z: 0.05959597}
+      rotation: {x: 0.0051652174, y: -0.000000059604623, z: -0.0000002384185, w: 0.99998665}
+      scale: {x: 1.0000002, y: 0.99999994, z: 0.99999964}
+    - name: Model__Biped_Bip01_Headbase
+      parentName: Model__Biped_Bip01_Head1
+      position: {x: -0.031232111, y: -0.01961253, z: -0.000000035}
+      rotation: {x: 0.45465055, y: -0.54156506, z: 0.45464972, w: 0.5415661}
+      scale: {x: 0.99999994, y: 1.0000004, z: 1.0000005}
+    - name: Model__Biped_Bip01_Jaw_Bone
+      parentName: Model__Biped_Bip01_Headbase
+      position: {x: -1.4453174e-15, y: 0.001685285, z: -0.0011790801}
+      rotation: {x: -0.6888566, y: -0.15961464, z: 0.68885636, w: 0.15961447}
+      scale: {x: 1.000001, y: 1.0000021, z: 1.0000018}
+    - name: Model__Biped_Bip01_Face_chin
+      parentName: Model__Biped_Bip01_Jaw_Bone
+      position: {x: -0.12158394, y: 0.00116956, z: 2.3532411e-15}
+      rotation: {x: 0.68794435, y: 0.16350125, z: -0.6879443, w: 0.16350132}
+      scale: {x: 1.0000001, y: 0.9999999, z: 0.99999976}
+    - name: Model__Biped_Bip01_Lower_Lip_Mi
+      parentName: Model__Biped_Bip01_Face_chin
+      position: {x: -0, y: 0.036998607, z: 0.025682265}
+      rotation: {x: 0.00005, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_Lower_Lip_Ri
+      parentName: Model__Biped_Bip01_Face_chin
+      position: {x: 0.01908298, y: 0.037012465, z: 0.020797176}
+      rotation: {x: -0.0000030000003, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_Lower_Lip_Le
+      parentName: Model__Biped_Bip01_Face_chin
+      position: {x: -0.02062137, y: 0.037012465, z: 0.020797176}
+      rotation: {x: -0.0000030398362, y: 0.000000141561, z: -0.00000006705521, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+    - name: Model__Biped_Bip01_L_Clavicle
+      parentName: Model__Biped_Bip01_Spine4
+      position: {x: -0.08602639, y: 0.04562509, z: 0.067818135}
+      rotation: {x: 0.4441174, y: -0.51744455, z: -0.61991906, w: -0.38821542}
+      scale: {x: 1.0000008, y: 0.9999997, z: 1.0000004}
+    - name: Model__Biped_Bip01_L_UpperArm
+      parentName: Model__Biped_Bip01_L_Clavicle
+      position: {x: -0.21263976, y: 1.519165e-14, z: -2.0038662e-14}
+      rotation: {x: -0.7659616, y: 0.12769538, z: -0.053886976, w: 0.62776816}
+      scale: {x: 0.9999994, y: 1.0000012, z: 1.0000008}
+    - name: Model__Biped_Bip01_L_Forearm
+      parentName: Model__Biped_Bip01_L_UpperArm
+      position: {x: -0.36267018, y: 0, z: 0}
+      rotation: {x: -0.0014193949, y: 0.012115677, z: 0.037103467, w: 0.99923694}
+      scale: {x: 1.0000008, y: 1.0000008, z: 1.0000002}
+    - name: Model__Biped_Bip01_L_Hand
+      parentName: Model__Biped_Bip01_L_Forearm
+      position: {x: -0.37219372, y: 0.000000034999957, z: -0.00000112}
+      rotation: {x: 0.7169776, y: -0.02771709, z: -0.024107654, w: 0.6961278}
+      scale: {x: 1.0000005, y: 1, z: 0.9999994}
+    - name: Model__Biped_Bip01_L_Finger0
+      parentName: Model__Biped_Bip01_L_Hand
+      position: {x: -0.05377001, y: -0.030363657, z: 0.045447886}
+      rotation: {x: 0.73772496, y: -0.1708567, z: -0.32096568, w: -0.5688154}
+      scale: {x: 1.0000002, y: 1.0000011, z: 1.0000002}
+    - name: Model__Biped_Bip01_L_Finger01
+      parentName: Model__Biped_Bip01_L_Finger0
+      position: {x: -0.05709032, y: 0.00000007000007, z: 0.000000035000028}
+      rotation: {x: -0.020058503, y: -0.012408191, z: -0.0363659, w: 0.99906015}
+      scale: {x: 0.99999994, y: 0.99999976, z: 1.0000005}
+    - name: Model__Biped_Bip01_L_Finger02
+      parentName: Model__Biped_Bip01_L_Finger01
+      position: {x: -0.04830623, y: -0.00000006999997, z: -2.2827302e-14}
+      rotation: {x: -0.0010867545, y: 0.006625396, z: 0.03356771, w: 0.99941397}
+      scale: {x: 0.9999994, y: 1.0000015, z: 1.0000001}
+    - name: Model__Biped_LThumbeffector
+      parentName: Model__Biped_Bip01_L_Finger02
+      position: {x: -0.04117096, y: -0.00000007, z: 0.000000035}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_L_Finger1
+      parentName: Model__Biped_Bip01_L_Hand
+      position: {x: -0.14667352, y: 0.00030324, z: 0.04402146}
+      rotation: {x: -0.110332035, y: -0.0028172033, z: 0.07628737, w: 0.99095875}
+      scale: {x: 1.0000008, y: 0.9999998, z: 0.9999998}
+    - name: Model__Biped_Bip01_L_Finger11
+      parentName: Model__Biped_Bip01_L_Finger1
+      position: {x: -0.059081506, y: 0.00000003499998, z: 0.00000003499998}
+      rotation: {x: 0.018162565, y: -0.0037860607, z: 0.032612182, w: 0.99929595}
+      scale: {x: 1.000001, y: 1.0000017, z: 1.0000006}
+    - name: Model__Biped_Bip01_L_Finger12
+      parentName: Model__Biped_Bip01_L_Finger11
+      position: {x: -0.03645334, y: 0.000000035000028, z: 1.5154593e-14}
+      rotation: {x: -0.0012303581, y: -0.0021924344, z: 0.04113415, w: 0.99915045}
+      scale: {x: 0.9999997, y: 1.0000001, z: 1.0000002}
+    - name: Model__Biped_LIndexeffector
+      parentName: Model__Biped_Bip01_L_Finger12
+      position: {x: -0.038721584, y: -0.00000007, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_L_Finger2
+      parentName: Model__Biped_Bip01_L_Hand
+      position: {x: -0.14443538, y: 0.00069517, z: 0.00684012}
+      rotation: {x: -0.13721313, y: -0.021374175, z: 0.06418019, w: 0.98822904}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000007}
+    - name: Model__Biped_Bip01_L_Finger21
+      parentName: Model__Biped_Bip01_L_Finger2
+      position: {x: -0.06503679, y: 2.468958e-14, z: -2.2606052e-16}
+      rotation: {x: 0.0062195794, y: -0.0022995337, z: 0.03313185, w: 0.999429}
+      scale: {x: 1.0000004, y: 1.0000004, z: 0.9999995}
+    - name: Model__Biped_Bip01_L_Finger22
+      parentName: Model__Biped_Bip01_L_Finger21
+      position: {x: -0.043611296, y: 0.00000003499997, z: 1.4631813e-14}
+      rotation: {x: 0.0010923881, y: -0.0043597734, z: -0.018767264, w: 0.9998138}
+      scale: {x: 1.0000004, y: 0.9999998, z: 1.0000006}
+    - name: Model__Biped_LMiddleeffector
+      parentName: Model__Biped_Bip01_L_Finger22
+      position: {x: -0.038705625, y: 0.000000035, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_L_Finger3
+      parentName: Model__Biped_Bip01_L_Hand
+      position: {x: -0.13193254, y: -0.008151185, z: -0.023479784}
+      rotation: {x: -0.12599204, y: -0.030122882, z: 0.04973274, w: 0.99032587}
+      scale: {x: 1.0000012, y: 1.0000002, z: 1.0000006}
+    - name: Model__Biped_Bip01_L_Finger31
+      parentName: Model__Biped_Bip01_L_Finger3
+      position: {x: -0.0590828, y: 0.000000035000024, z: -5.5129067e-15}
+      rotation: {x: 0.0004893763, y: 0.007040286, z: 0.04036554, w: 0.99916005}
+      scale: {x: 1.0000007, y: 1, z: 0.9999999}
+    - name: Model__Biped_Bip01_L_Finger32
+      parentName: Model__Biped_Bip01_L_Finger31
+      position: {x: -0.031674966, y: 0.0000000700001, z: 3.0917306e-14}
+      rotation: {x: -0.028951077, y: -0.0068892087, z: 0.035590522, w: 0.99892336}
+      scale: {x: 1.0000007, y: 1.0000013, z: 0.99999964}
+    - name: Model__Biped_LRingeffector
+      parentName: Model__Biped_Bip01_L_Finger32
+      position: {x: -0.038745, y: 0.000000035, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_L_Finger4
+      parentName: Model__Biped_Bip01_L_Hand
+      position: {x: -0.12026087, y: -0.022184085, z: -0.05675866}
+      rotation: {x: -0.30114505, y: -0.040453803, z: 0.039528187, w: 0.9518995}
+      scale: {x: 1.0000008, y: 1.0000006, z: 1.0000006}
+    - name: Model__Biped_Bip01_L_Finger41
+      parentName: Model__Biped_Bip01_L_Finger4
+      position: {x: -0.042520553, y: -0.000000035000003, z: -1.16578415e-14}
+      rotation: {x: 0.050917454, y: -0.013727995, z: 0.03473095, w: 0.99800444}
+      scale: {x: 1.0000026, y: 1.0000007, z: 0.9999994}
+    - name: Model__Biped_Bip01_L_Finger42
+      parentName: Model__Biped_Bip01_L_Finger41
+      position: {x: -0.027181527, y: 3.4369894e-16, z: 0.000000035000003}
+      rotation: {x: -0.013046458, y: -0.009219717, z: 0.039202567, w: 0.99910355}
+      scale: {x: 1.0000006, y: 1.0000014, z: 1.0000002}
+    - name: Model__Biped_LPinkyeffector
+      parentName: Model__Biped_Bip01_L_Finger42
+      position: {x: -0.03321402, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_R_Clavicle
+      parentName: Model__Biped_Bip01_Spine4
+      position: {x: -0.08602639, y: 0.04562509, z: -0.067818135}
+      rotation: {x: 0.4298496, y: -0.5394322, z: 0.6008838, w: 0.4039566}
+      scale: {x: 1.0000017, y: 0.99999976, z: 1.0000014}
+    - name: Model__Biped_Bip01_R_UpperArm
+      parentName: Model__Biped_Bip01_R_Clavicle
+      position: {x: -0.21263976, y: -3.708726e-14, z: 7.0388756e-15}
+      rotation: {x: -0.7880709, y: 0.12567168, z: 0.058449935, w: -0.5997787}
+      scale: {x: 1, y: 1.000001, z: 1.0000017}
+    - name: Model__Biped_Bip01_R_Forearm
+      parentName: Model__Biped_Bip01_R_UpperArm
+      position: {x: -0.36267018, y: 0, z: 0}
+      rotation: {x: 0.0014196034, y: -0.012115116, z: 0.037103727, w: 0.999237}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000004}
+    - name: Model__Biped_Bip01_R_Hand
+      parentName: Model__Biped_Bip01_R_Forearm
+      position: {x: -0.37219474, y: 5.532308e-14, z: 5.073534e-14}
+      rotation: {x: 0.71440166, y: -0.027631637, z: 0.024206668, w: -0.6987709}
+      scale: {x: 1.0000005, y: 1.0000008, z: 1.0000018}
+    - name: Model__Biped_Bip01_R_Finger0
+      parentName: Model__Biped_Bip01_R_Hand
+      position: {x: -0.05376938, y: -0.030699095, z: -0.045222275}
+      rotation: {x: -0.73618186, y: 0.16977936, z: -0.32281148, w: -0.57009125}
+      scale: {x: 0.9999992, y: 1.0000017, z: 1.0000007}
+    - name: Model__Biped_Bip01_R_Finger01
+      parentName: Model__Biped_Bip01_R_Finger0
+      position: {x: -0.05709032, y: 0.00000003499999, z: -7.4256854e-15}
+      rotation: {x: 0.010512824, y: -0.00024918455, z: -0.040412422, w: 0.99912775}
+      scale: {x: 1.0000006, y: 0.9999986, z: 0.9999986}
+    - name: Model__Biped_Bip01_R_Finger02
+      parentName: Model__Biped_Bip01_R_Finger01
+      position: {x: -0.048306443, y: 0.00000010500003, z: 0.00000007000001}
+      rotation: {x: 0.00025095872, y: -0.0003761732, z: 0.035887986, w: 0.9993558}
+      scale: {x: 0.99999875, y: 1.0000001, z: 1.0000007}
+    - name: Model__Biped_RThumbeffector
+      parentName: Model__Biped_Bip01_R_Finger02
+      position: {x: -0.04117096, y: -0.00000007, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_R_Finger1
+      parentName: Model__Biped_Bip01_R_Hand
+      position: {x: -0.12026018, y: -0.021764224, z: 0.05692099}
+      rotation: {x: 0.28764123, y: 0.04019282, z: 0.03785193, w: 0.9561456}
+      scale: {x: 1.0000013, y: 1.0000004, z: 1.0000019}
+    - name: Model__Biped_Bip01_R_Finger11
+      parentName: Model__Biped_Bip01_R_Finger1
+      position: {x: -0.042520553, y: -0.000000035000024, z: 0.000000035}
+      rotation: {x: -0.009594705, y: 0.0072173933, z: 0.03678142, w: 0.9992513}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000013}
+    - name: Model__Biped_Bip01_R_Finger12
+      parentName: Model__Biped_Bip01_R_Finger11
+      position: {x: -0.027181631, y: 2.4638811e-14, z: -0.000000034999992}
+      rotation: {x: -0.00066419126, y: 0.028981278, z: 0.022899825, w: 0.99931747}
+      scale: {x: 1.0000001, y: 0.9999991, z: 0.99999946}
+    - name: Model__Biped_RIndexeffector
+      parentName: Model__Biped_Bip01_R_Finger12
+      position: {x: -0.033214126, y: 0, z: -0.000000035}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_R_Finger2
+      parentName: Model__Biped_Bip01_R_Hand
+      position: {x: -0.13190433, y: -0.008441895, z: 0.024680214}
+      rotation: {x: 0.1460374, y: 0.037835374, z: 0.041921385, w: 0.9876661}
+      scale: {x: 1.0000007, y: 0.9999994, z: 0.99999946}
+    - name: Model__Biped_Bip01_R_Finger21
+      parentName: Model__Biped_Bip01_R_Finger2
+      position: {x: -0.05856294, y: 0, z: 0}
+      rotation: {x: 0.004391267, y: 0.0012695449, z: 0.037955277, w: 0.99926895}
+      scale: {x: 1.0000008, y: 0.9999997, z: 1.0000014}
+    - name: Model__Biped_Bip01_R_Finger22
+      parentName: Model__Biped_Bip01_R_Finger21
+      position: {x: -0.03166891, y: -2.937933e-14, z: -9.682912e-15}
+      rotation: {x: 0.010795955, y: -0.0010842053, z: 0.038000863, w: 0.9992188}
+      scale: {x: 0.99999964, y: 1.0000002, z: 0.9999994}
+    - name: Model__Biped_RMiddleeffector
+      parentName: Model__Biped_Bip01_R_Finger22
+      position: {x: -0.038728412, y: 0.000000035, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_R_Finger3
+      parentName: Model__Biped_Bip01_R_Hand
+      position: {x: -0.14443444, y: 0.00064491, z: -0.006845055}
+      rotation: {x: 0.1665103, y: 0.026952066, z: 0.06072737, w: 0.9837988}
+      scale: {x: 1.0000012, y: 1.000001, z: 1.0000011}
+    - name: Model__Biped_Bip01_R_Finger31
+      parentName: Model__Biped_Bip01_R_Finger3
+      position: {x: -0.06503676, y: 2.4024353e-14, z: 6.776432e-15}
+      rotation: {x: -0.009164477, y: 0.0031038895, z: 0.031566855, w: 0.9994548}
+      scale: {x: 1.0000004, y: 1.000001, z: 1.0000007}
+    - name: Model__Biped_Bip01_R_Finger32
+      parentName: Model__Biped_Bip01_R_Finger31
+      position: {x: -0.04346979, y: -0.00000010499997, z: -2.5957426e-15}
+      rotation: {x: 0.00014008107, y: 0.0030674709, z: -0.041329134, w: 0.99914086}
+      scale: {x: 0.99999976, y: 0.9999997, z: 1.0000001}
+    - name: Model__Biped_RRingeffector
+      parentName: Model__Biped_Bip01_R_Finger32
+      position: {x: -0.039480034, y: -0.00000007, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Model__Biped_Bip01_R_Finger4
+      parentName: Model__Biped_Bip01_R_Hand
+      position: {x: -0.14667253, y: -0.00002163, z: -0.04402251}
+      rotation: {x: 0.08985551, y: -0.0012258677, z: 0.07759839, w: 0.9929265}
+      scale: {x: 1.0000013, y: 0.9999998, z: 1.0000005}
+    - name: Model__Biped_Bip01_R_Finger41
+      parentName: Model__Biped_Bip01_R_Finger4
+      position: {x: -0.059081648, y: -4.460546e-14, z: 9.456479e-15}
+      rotation: {x: -0.009847757, y: 0.0038964136, z: 0.0314279, w: 0.99944997}
+      scale: {x: 1.0000012, y: 1.0000002, z: 1.0000015}
+    - name: Model__Biped_Bip01_R_Finger42
+      parentName: Model__Biped_Bip01_R_Finger41
+      position: {x: -0.036453407, y: 0.00000013999998, z: -0.000000035000024}
+      rotation: {x: -0.000017069277, y: 0.014441455, z: 0.0011834141, w: 0.9998951}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000012}
+    - name: Model__Biped_RPinkyeffector
+      parentName: Model__Biped_Bip01_R_Finger42
+      position: {x: -0.038721513, y: -0.00000007, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body
+      parentName: beggar_without_all_extras(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head
+      parentName: beggar_without_all_extras(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body 1
+      parentName: beggar_without_all_extras(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyes
+      parentName: beggar_without_all_extras(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
