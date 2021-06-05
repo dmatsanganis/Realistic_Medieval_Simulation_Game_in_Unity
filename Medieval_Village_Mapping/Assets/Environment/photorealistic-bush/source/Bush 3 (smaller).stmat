@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!-- Generated using SpeedTree tools -->
+<Materials Count="6" Mesh="Bush 3 (smaller).fbx" FlipOpacity="0">
+	<Material ID="3" Name="Bark_Mat" TwoSided="0" UserData="" VertexOpacity="1">
+		<Map Name="Color" File="Bark.jpg" />
+		<Map Name="Normal" File="Bark_Normal.jpg" />
+		<Map Name="Gloss" File="Bark_Gloss.jpg" />
+		<Map Name="Specular" ColorR="0.75" ColorG="0.75" ColorB="0.75" />
+		<Map Name="AO" File="Bark_AO.jpg" />
+		<Map Name="Custom" ColorR="0" ColorG="0" ColorB="0" />
+	</Material>
+	<Material ID="2" Name="Leaf2_Mat" TwoSided="0" UserData="" VertexOpacity="1">
+		<Map Name="Color" File="Leaf2.jpg" />
+		<Map Name="Opacity" File="Leaf2_Opacity.jpg" />
+		<Map Name="Normal" File="Leaf2_Normal.jpg" />
+		<Map Name="Gloss" File="Leaf2_Gloss.jpg" />
+		<Map Name="Specular" ColorR="0.75" ColorG="0.75" ColorB="0.75" />
+		<Map Name="Custom" ColorR="0" ColorG="0" ColorB="0" />
+	</Material>
+	<Material ID="1" Name="Leaf_Mat" TwoSided="1" UserData="" VertexOpacity="1">
+		<Map Name="Color" File="Leaf.jpg" />
+		<Map Name="Opacity" File="Leaf_Opacity.jpg" />
+		<Map Name="Normal" File="Leaf_Normal.jpg" />
+		<Map Name="Gloss" File="Leaf_Gloss.jpg" />
+		<Map Name="Specular" ColorR="0.75" ColorG="0.75" ColorB="0.75" />
+		<Map Name="Custom" ColorR="0" ColorG="0" ColorB="0" />
+	</Material>
+	<Material ID="1001" Name="Leaf_v2_Mat" TwoSided="1" UserData="" VertexOpacity="1">
+		<Map Name="Color" File="Leaf_v2.jpg" />
+		<Map Name="Opacity" File="Leaf_Opacity.jpg" />
+		<Map Name="Normal" File="Leaf_Normal.jpg" />
+		<Map Name="Gloss" File="Leaf_Gloss.jpg" />
+		<Map Name="Specular" ColorR="0.75" ColorG="0.75" ColorB="0.75" />
+		<Map Name="Custom" ColorR="0" ColorG="0" ColorB="0" />
+	</Material>
+	<Material ID="2001" Name="Leaf_v3_Mat" TwoSided="1" UserData="" VertexOpacity="1">
+		<Map Name="Color" File="Leaf_v3.jpg" />
+		<Map Name="Opacity" File="Leaf_Opacity.jpg" />
+		<Map Name="Normal" File="Leaf_Normal.jpg" />
+		<Map Name="Gloss" File="Leaf_Gloss.jpg" />
+		<Map Name="Specular" ColorR="0.75" ColorG="0.75" ColorB="0.75" />
+		<Map Name="Custom" ColorR="0" ColorG="0" ColorB="0" />
+	</Material>
+	<Material ID="3001" Name="Leaf_v4_Mat" TwoSided="1" UserData="" VertexOpacity="1">
+		<Map Name="Color" File="Leaf_v4.jpg" />
+		<Map Name="Opacity" File="Leaf_Opacity.jpg" />
+		<Map Name="Normal" File="Leaf_Normal.jpg" />
+		<Map Name="Gloss" File="Leaf_Gloss.jpg" />
+		<Map Name="Specular" ColorR="0.75" ColorG="0.75" ColorB="0.75" />
+		<Map Name="Custom" ColorR="0" ColorG="0" ColorB="0" />
+	</Material>
+</Materials>
