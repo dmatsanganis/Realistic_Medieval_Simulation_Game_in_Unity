@@ -1,6 +1,12 @@
 # Medieval Game
 blah blah blah..
 
+
+
+![application_logo](https://user-images.githubusercontent.com/34712449/120995260-e6b6fc00-c78d-11eb-9e10-820f52049879.png)
+
+![location_cave](https://user-images.githubusercontent.com/34712449/120995411-0b12d880-c78e-11eb-957b-893a2210bd33.png)
+
 ## Documentation
 
 You can find further information regarding the development of this project under the project's documentation file - see the [Documentation](/Documentation.pdf) for details. 
