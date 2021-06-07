@@ -13,4 +13,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [X] [Panagiotis Apostolopoulos](https://github.com/papost) 
 - [X] [Dimitris Matsanganis](https://github.com/dimitrismatsanganis) 
+- [X] [Pavlos Roumeliotis](https://github.com/pavlosroumeliotis)
 - [X] [Alexandros Scarpelos](https://github.com/alexhsog)
