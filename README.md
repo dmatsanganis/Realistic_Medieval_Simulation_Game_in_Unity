@@ -1,5 +1,5 @@
 # Medieval Game
-blah blah blah..
+This is a Medieval Game in Unity environment. Our goal was to build a realistic medieval village, in which the gamer could feel like a knight. We use numerous technologies like Cinemachine,Third Person Controller, a variety of animations and AI agents.
 
 
 
