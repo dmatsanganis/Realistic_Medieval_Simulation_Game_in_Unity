@@ -9,7 +9,7 @@ blah blah blah..
 
 ## Documentation
 
-You can find further information regarding the development of this project under the project's documentation file - see the [Documentation](/Documentation.pdf) for details. 
+You can find further information regarding the development of this project under the project's documentation file - see the [Documentation.pdf](https://github.com/dimitrismatsanganis/3D_Medieval_Game/files/6615718/Documentation.pdf) for details. 
 
 ## License
 
