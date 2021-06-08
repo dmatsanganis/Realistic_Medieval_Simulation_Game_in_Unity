@@ -11,6 +11,10 @@ blah blah blah..
 
 You can find further information regarding the development of this project under the project's documentation file - see the [Documentation.pdf](https://github.com/dimitrismatsanganis/3D_Medieval_Game/files/6615718/Documentation.pdf) for details. 
 
+## Presentation
+
+You can take a look at our Presentation file, in order to see the main content of our game - follow the link for more [Presentation.pdf](https://github.com/dimitrismatsanganis/3D_Medieval_Game/files/6615753/Presentation.pdf)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
