@@ -1,0 +1,123 @@
+1.	Medieval Tavern :
+https://assetstore.unity.com/publishers/35107
+2.	Κτίρια : https://assetstore.unity.com/packages/3d/environments/historic/lowpoly-medieval-buildings-58289
+3.	Βράχοι και πέτρες : https://assetstore.unity.com/packages/3d/environments/landscapes/free-rocks-19288
+4.	Σπηλιά και Terrain : https://assetstore.unity.com/packages/3d/environments/landscapes/rocky-hills-environment-light-pack-89939
+5.	Καρότσια : https://assetstore.unity.com/packages/3d/environments/historic/medieval-barrows-and-wagons-33411
+6.	Κρανίο : 
+https://sketchfab.com/3d-models/cave-bear-skull-4662301761574d03ab305eb17cf7f12c
+7.	Κρανίο :
+https://sketchfab.com/3d-models/human-skull-d0a00f07771f43c09cbce84de4748425
+8.	Βαρέλια : 
+https://sketchfab.com/3d-models/medieval-props-ba5f7f426b6847e7bcb67c9dd378b5b5
+9.	Βαρέλια : 
+10.	https://sketchfab.com/3d-models/wooden-box-afb1324784774f9d8de52f1c9756a052#download
+11.	Φανάρια :
+https://sketchfab.com/3d-models/lantern-model-a90eb130d5d4499194277f00e143dc7c
+12.	Εργάτες Φάρμας : 
+https://sketchfab.com/3d-models/farmers-pack-low-poly-3c259264e6fe46a4bb33fecce4ece039
+13.	Λουλούδια : 
+https://assetstore.unity.com/packages/2d/textures-materials/grass-flowers-pack-free-138810
+14.	Γρασίδι :
+https://assetstore.unity.com/packages/3d/environments/nature-starter-kit-2-52977
+15.	Σεντούκι :
+https://sketchfab.com/3d-models/medieval-chest-037b03a3e0274279be4b93b7c7cedf01
+16.	Προβλήτα :
+https://sketchfab.com/3d-models/low-poly-dock-1691586c531f4ff59cbfc96356a5ffbd?fbclid=IwAR3A90lHu7uDdZKiy_U-plHsw3x4txc5YCiPp7VHaPxCfzvFVYdon_czckc
+17.	Βάρκα : 
+https://sketchfab.com/3d-models/boat-5cdc4fc134e84a8d97fb2d3ffaf5c5fb?fbclid=IwAR0Uda5xPsQgGHSRIV3wiieh7iCUXRV58p11R7Vxc905iyvH3RG94eeMSNU
+18.	Χωρικοί : 
+https://sketchfab.com/3d-models/fuse-civilian-2-671bd73d045f47b4952fe2899772e124
+19.	Καλάμι Ψαρέματος :
+https://sketchfab.com/3d-models/stylized-fishing-rod-sea-land-10ee6086e54a4529b2f49e970e287da6
+20.	Πέτρες : 
+https://sketchfab.com/3d-models/granite-rock-yellowish-brown-519c813e95af46a59e010539cd02ac5f
+21.	Θάμνοι : 
+https://sketchfab.com/3d-models/photorealistic-bush-8db54bf299954daa9ee29b233e923672
+22.	Πέτρες Λίμνης :
+https://sketchfab.com/3d-models/river-rock-d65a01af8ae14f1e9554ab90be74f6d
+23.	Μεγάλες Πέτρες :
+https://sketchfab.com/3d-models/monte-terminillo-rock-01-619f2e1f83c748a69fcb67c24de65a85
+24.	Πέτρες για το δάσος :
+https://sketchfab.com/3d-models/big-rock-3d-scan-7cdf1110b8134d128dbbbab403a177cd
+25.	Μεσαιωνικά Κτίσματα :
+https://assetstore.unity.com/packages/3d/environments/fantasy/medieval-house-modular-lite-189718
+26.	Μεσαιωνικά Κτίσματα :
+https://www.cgtrader.com/free-3d-models/exterior/house/enterable-aaa-next-gen-medieval-fantasy-city-town-house
+27.	Σιτάρι για τα χωράφια :
+https://sketchfab.com/3d-models/wheat-free-ddff74ac0661414a9478bd4d7581c854
+28.	Αντικείμενα για εσωτερικούς χώρους : 
+https://assetstore.unity.com/packages/3d/environments/fantasy/mega-fantasy-props-pack-87811
+29.	Σιντριβάνι πλατείας :
+https://sketchfab.com/3d-models/fountain-with-three-putts-brno-luzanky-430b9e5354484860b8b41505e9b63298
+30.	Πηγάδι :
+https://sketchfab.com/3d-models/ugly-well-c9a5f08aecf64118b88a9ae57a5d322f 
+31.	Πηγάδι και κουβάδες :
+https://sketchfab.com/3d-models/old-water-well-f595574c75834d7289fcb917ff152fc2 
+32.	Βιβλιοθήκη :
+https://sketchfab.com/3d-models/medieval-bookcase-86d0148ab525424ea3bdea13430d476e
+33.	Αντικείμενα για εσωτερικούς χώρους : 
+https://assetstore.unity.com/packages/3d/props/free-medieval-props-asset-pack-131420
+34.	Τζάκι :
+https://sketchfab.com/3d-models/forge-heaj-3e091907834b416da4fbbe3ef7338339
+35.	Σιδηρουργείο :
+https://assetstore.unity.com/packages/3d/environments/fantasy/blacksmith-46265
+36.	Σιδηρουργείο – Αντικείμενα εσωτερικού χώρου :
+https://assetstore.unity.com/packages/3d/environments/fantasy/blacksmith-s-forge-17785
+37.	Κινήσεις Χωρικών :
+https://assetstore.unity.com/packages/3d/animations/villager-animations-pack-free-157920
+38.	Αγορά :
+https://sketchfab.com/3d-models/medieval-stall-4a5a40e78e4b481bafbb576303f992cd 
+39.	Πάγκοι Αγοράς :
+https://sketchfab.com/3d-models/medieval-food-stall-7d9b2922dd0941dab820c4763078c789
+40.	Πάγκοι Αγοράς :
+https://sketchfab.com/3d-models/fruit-veg-market-cf9d11b27bf7478a857a6abcbbb00cd3
+41.	Αγελάδα :
+https://sketchfab.com/3d-models/cow-npc-now-free-to-download-2ca1db4e890e4b24a68624597e7d2fc8
+42.	Γάιδαρος :
+https://sketchfab.com/3d-models/donkey-with-2-animations-c479e98e233944ddae65bd5a3bb77157
+43.	Άλογο :
+https://sketchfab.com/3d-models/white-horse-fbdc9eeed40549829d7ccd25054a1171
+44.	Κότες – Κοτόπουλα :
+https://sketchfab.com/3d-models/chicken-rig-b92464211274439b955700e3aa5c321f
+45.	Αντικείμενα εσωτερικού χώρου :
+https://assetstore.unity.com/packages/3d/props/free-medieval-props-asset-pack-131420
+46.	Χωρικοί :
+https://sketchfab.com/3d-models/fuse-civilian-1-6fc4bddf4d364e6b9fa2f050011e03ce
+47.	Χωρικοί :
+https://sketchfab.com/3d-models/medieval-civilian-3-d99ca22f06134e8dab28fdfa75d87f31
+48.	 Χωρικοί :
+https://sketchfab.com/3d-models/fuse-woman-1-c6436897da494b4e8e1f8188aea620c6
+49.	 Τοξότες :
+https://sketchfab.com/3d-models/archer-character-fba1fd65de6d49e49d06c112664dd99b
+50.	Γυναίκα Χωρικός :
+https://sketchfab.com/3d-models/girl-with-clothes-worker-set-4cf10e2dde6d4b12b6dccd25a4cf3b77
+51.	Σπαθί :
+https://sketchfab.com/3d-models/gerald-sword-3618f142d3c644d4a196f7b91a2148fd
+52.	Βιβλίο (Σπίτι Μάγου) :
+https://sketchfab.com/3d-models/book-open-bcc69dacd1bc4eadaf4b9fc0d6e2430b
+53.	Βιβλίο (Σπίτι Μάγου) :
+https://sketchfab.com/3d-models/antique-leather-book-big-f62314240a0140a89e29119829aec000
+54.	Βιβλίο (Σπίτι Μάγου) :
+https://sketchfab.com/3d-models/magic-book-3a06150380624806804223961b17b424
+55.	Βιβλίο (Σπίτι μάγου) :
+https://sketchfab.com/3d-models/coptic-prayer-book-500ec4621d764f0dadb8edc93b8700ae
+56.	Βιβλίο (Σπίτι Μάγου) :
+https://sketchfab.com/3d-models/ornate-book-f55f8ffd11ef48629962d0f178039849
+57.	Μεσαιωνική Εκκλησία :
+https://sketchfab.com/3d-models/medieval-church-7bf3dc3f8d1a41768aeb556eb96bdbba
+58.	Σπαθιά και Τσεκούρια :
+https://sketchfab.com/3d-models/fantasy-weapon-17c63e6799d041be84a818f10a7da175
+59.	Μεσαιωνικό Κτίσμα :
+https://www.cgtrader.com/free-3d-models/exterior/industrial/next-gen-wooden-silo-storage-construction-building
+60.	Κλειδί για το σπίτι του Μάγου :
+https://sketchfab.com/3d-models/fantasy-key-209a7fe01e9849a1b2d2c66842880dc9
+61.	Κάρο :
+https://sketchfab.com/3d-models/carriage-19th-century-29e2a5af24a046a09e9cd979d07a0fbe
+62.	Ελιξίριο Μάγου :
+https://sketchfab.com/3d-models/cased-potion-bottle-3dbfe22766a04d1fa551471247d55fff
+63.	Ουρανός : 
+https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633?fbclid=IwAR2wxdhmJQMtttw-pSUjYpDYp0pcl7kBxbcOEsvp0f0iTDciJEUVccUgIZ4
+
+
+
